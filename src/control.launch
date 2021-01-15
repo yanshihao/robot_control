@@ -1,0 +1,9 @@
+<launch>
+    <node pkg="robot_control" type="angleControl" name="angleControl" output="screen">
+        <param name="outputTwistTopic" value="/robot/speed" />
+        <param name="inputOdmTopic" value="/robot_odm" />
+        <param name="kpAngle" value="1.1"/>
+        <param name="kiAngle" value="0.1" />
+        <param name="kdAngle" value="0.4" />
+    </node>
+</launch>

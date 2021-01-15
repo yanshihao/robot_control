@@ -1,0 +1,9 @@
+<launch>
+    <node pkg="robot_control" type="LineFollowControl" name="LineFollowControl" output="screen">
+        <param name="outputTwistTopic" value="/robot/speed" />
+        <param name="inputOdmTopic" value="/robot_odm" />
+        <param name="kpDis" value="0.7"/>
+        <param name="kiDis" value="0.1" />
+        <param name="kdDis" value="0.0" />
+    </node>
+</launch>
