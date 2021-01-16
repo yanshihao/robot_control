@@ -1,0 +1,3107 @@
+/robot/speed
+init start
+000
+000
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+110
+handleFutureTraMsg
+handleFutureTraMsg
+init ok
+ curTime : 1
+ xr : -0.0490014 yr : 0.788603 thetar: -0.254531
+state -0.047532 -0.011372 -0.255063
+robot's locatoion -0.001103 0.100000 0.000532
+future 0 wr 0.028480 , vr 0.092257
+future 1 wr 0.021457 , vr 0.106288
+future 2 wr 0.016744 , vr 0.120321
+future 3 wr 0.013429 , vr 0.134353
+future 4 wr 0.011009 , vr 0.148387
+future 5 wr 0.009189 , vr 0.162420
+future 6 wr 0.007785 , vr 0.176454
+future 7 wr 0.006680 , vr 0.190488
+future 8 wr 0.005795 , vr 0.204523
+future 9 wr 0.005075 , vr 0.218557
+future 10 wr 0.004481 , vr 0.232592
+future 11 wr 0.003985 , vr 0.246626
+future 12 wr 0.003568 , vr 0.260661
+future 13 wr 0.003212 , vr 0.274696
+future 14 wr 0.002908 , vr 0.288731
+future 15 wr 0.002644 , vr 0.302766
+计算速度-0.0248513   0.0461572
+真实速度0   0
+ curTime : 2
+ xr : -0.0490014 yr : 0.788603 thetar: -0.127266
+state -0.047532 -0.011372 -0.127798
+robot's locatoion -0.001103 0.100000 0.000532
+future 0 wr 0.028480 , vr 0.092257
+future 1 wr 0.021457 , vr 0.106288
+future 2 wr 0.016744 , vr 0.120321
+future 3 wr 0.013429 , vr 0.134353
+future 4 wr 0.011009 , vr 0.148387
+future 5 wr 0.009189 , vr 0.162420
+future 6 wr 0.007785 , vr 0.176454
+future 7 wr 0.006680 , vr 0.190488
+future 8 wr 0.005795 , vr 0.204523
+future 9 wr 0.005075 , vr 0.218557
+future 10 wr 0.004481 , vr 0.232592
+future 11 wr 0.003985 , vr 0.246626
+future 12 wr 0.003568 , vr 0.260661
+future 13 wr 0.003212 , vr 0.274696
+future 14 wr 0.002908 , vr 0.288731
+future 15 wr 0.002644 , vr 0.302766
+计算速度-0.0272116   0.0525257
+真实速度0   0
+handleFutureTraMsg
+ curTime : 3
+ xr : -0.0360674 yr : 0.792298 thetar: -0.215303
+state -0.035945 -0.007679 -0.215965
+robot's locatoion 0.000336 0.100001 0.000663
+future 0 wr 0.301421 , vr 0.127003
+future 1 wr 0.241592 , vr 0.141860
+future 2 wr 0.197525 , vr 0.156888
+future 3 wr 0.164261 , vr 0.172042
+future 4 wr 0.138601 , vr 0.187292
+future 5 wr 0.118429 , vr 0.202615
+future 6 wr 0.102306 , vr 0.217997
+future 7 wr 0.089229 , vr 0.233426
+future 8 wr 0.078484 , vr 0.248893
+future 9 wr 0.069552 , vr 0.264391
+future 10 wr 0.062051 , vr 0.279915
+future 11 wr 0.055693 , vr 0.295462
+future 12 wr 0.050258 , vr 0.311027
+future 13 wr 0.045577 , vr 0.326609
+future 14 wr 0.041518 , vr 0.342204
+future 15 wr 0.037975 , vr 0.357811
+计算速度0.0422867   0.265619
+真实速度-0.022088   0.0315815
+handleFutureTraMsg
+ curTime : 4
+ xr : -0.0206542 yr : 0.793051 thetar: -0.264586
+state -0.025888 -0.006937 -0.265190
+robot's locatoion 0.005652 0.100004 0.000603
+future 0 wr 0.354748 , vr 0.163760
+future 1 wr 0.304215 , vr 0.176839
+future 2 wr 0.262827 , vr 0.190254
+future 3 wr 0.228738 , vr 0.203938
+future 4 wr 0.200472 , vr 0.217842
+future 5 wr 0.176866 , vr 0.231924
+future 6 wr 0.157006 , vr 0.246156
+future 7 wr 0.140179 , vr 0.260512
+future 8 wr 0.125822 , vr 0.274972
+future 9 wr 0.113494 , vr 0.289522
+future 10 wr 0.102841 , vr 0.304148
+future 11 wr 0.093582 , vr 0.318840
+future 12 wr 0.085489 , vr 0.333589
+future 13 wr 0.078381 , vr 0.348388
+future 14 wr 0.072106 , vr 0.363231
+future 15 wr 0.066542 , vr 0.378112
+计算速度0.0532349   0.368167
+真实速度-0.0252434   0.0332794
+handleFutureTraMsg
+ curTime : 5
+ xr : -0.00681657 yr : 0.794574 thetar: -0.312494
+state -0.022018 -0.005417 -0.313405
+robot's locatoion 0.015834 0.100012 0.000911
+future 0 wr 0.438203 , vr 0.156918
+future 1 wr 0.378485 , vr 0.168844
+future 2 wr 0.328387 , vr 0.181266
+future 3 wr 0.286428 , vr 0.194089
+future 4 wr 0.251232 , vr 0.207239
+future 5 wr 0.221607 , vr 0.220657
+future 6 wr 0.196556 , vr 0.234297
+future 7 wr 0.175262 , vr 0.248122
+future 8 wr 0.157063 , vr 0.262103
+future 9 wr 0.141422 , vr 0.276217
+future 10 wr 0.127907 , vr 0.290444
+future 11 wr 0.116166 , vr 0.304768
+future 12 wr 0.105915 , vr 0.319177
+future 13 wr 0.096920 , vr 0.333658
+future 14 wr 0.088992 , vr 0.348204
+future 15 wr 0.081973 , vr 0.362806
+计算速度0.104896   0.490581
+真实速度0.00709971   0.0704641
+handleFutureTraMsg
+ curTime : 6
+ xr : 0.00811292 yr : 0.796151 thetar: -0.350639
+state -0.020124 -0.003845 -0.351917
+robot's locatoion 0.029126 0.100022 0.001278
+future 0 wr 0.377312 , vr 0.138447
+future 1 wr 0.320279 , vr 0.150269
+future 2 wr 0.274192 , vr 0.162408
+future 3 wr 0.236700 , vr 0.174797
+future 4 wr 0.205962 , vr 0.187388
+future 5 wr 0.180550 , vr 0.200141
+future 6 wr 0.159366 , vr 0.213028
+future 7 wr 0.141564 , vr 0.226026
+future 8 wr 0.126488 , vr 0.239117
+future 9 wr 0.113627 , vr 0.252286
+future 10 wr 0.102581 , vr 0.265522
+future 11 wr 0.093033 , vr 0.278815
+future 12 wr 0.084730 , vr 0.292158
+future 13 wr 0.077468 , vr 0.305543
+future 14 wr 0.071086 , vr 0.318966
+future 15 wr 0.065447 , vr 0.332422
+计算速度0.084309   0.496341
+真实速度0.00788855   0.0991591
+handleFutureTraMsg
+ curTime : 7
+ xr : 0.0269213 yr : 0.795668 thetar: -0.349295
+state -0.019381 -0.004357 -0.350218
+robot's locatoion 0.046944 0.100043 0.000923
+future 0 wr 0.346776 , vr 0.150561
+future 1 wr 0.300236 , vr 0.161810
+future 2 wr 0.261568 , vr 0.173358
+future 3 wr 0.229312 , vr 0.185150
+future 4 wr 0.202264 , vr 0.197141
+future 5 wr 0.179451 , vr 0.209298
+future 6 wr 0.160090 , vr 0.221592
+future 7 wr 0.143559 , vr 0.234003
+future 8 wr 0.129359 , vr 0.246512
+future 9 wr 0.117089 , vr 0.259107
+future 10 wr 0.106429 , vr 0.271773
+future 11 wr 0.097118 , vr 0.284503
+future 12 wr 0.088945 , vr 0.297288
+future 13 wr 0.081736 , vr 0.310120
+future 14 wr 0.075350 , vr 0.322995
+future 15 wr 0.069668 , vr 0.335908
+计算速度0.0572385   0.541519
+真实速度-0.00315544   0.132778
+handleFutureTraMsg
+ curTime : 8
+ xr : 0.0503522 yr : 0.792023 thetar: -0.32907
+state -0.017305 -0.008021 -0.330040
+robot's locatoion 0.068328 0.100061 0.000970
+future 0 wr 0.230821 , vr 0.180280
+future 1 wr 0.208266 , vr 0.189791
+future 2 wr 0.188543 , vr 0.199471
+future 3 wr 0.171257 , vr 0.209296
+future 4 wr 0.156065 , vr 0.219246
+future 5 wr 0.142672 , vr 0.229306
+future 6 wr 0.130827 , vr 0.239461
+future 7 wr 0.120318 , vr 0.249701
+future 8 wr 0.110963 , vr 0.260014
+future 9 wr 0.102608 , vr 0.270392
+future 10 wr 0.095123 , vr 0.280829
+future 11 wr 0.088397 , vr 0.291318
+future 12 wr 0.082334 , vr 0.301853
+future 13 wr 0.076854 , vr 0.312430
+future 14 wr 0.071886 , vr 0.323045
+future 15 wr 0.067371 , vr 0.333694
+计算速度0.00840079   0.523363
+真实速度0.00552201   0.158756
+handleFutureTraMsg
+ curTime : 9
+ xr : 0.0770252 yr : 0.784511 thetar: -0.301007
+state -0.018371 -0.015558 -0.301799
+robot's locatoion 0.095939 0.100083 0.000793
+future 0 wr 0.208634 , vr 0.207540
+future 1 wr 0.193698 , vr 0.215393
+future 2 wr 0.180044 , vr 0.223411
+future 3 wr 0.167570 , vr 0.231577
+future 4 wr 0.156176 , vr 0.239877
+future 5 wr 0.145764 , vr 0.248295
+future 6 wr 0.136246 , vr 0.256822
+future 7 wr 0.127537 , vr 0.265446
+future 8 wr 0.119560 , vr 0.274158
+future 9 wr 0.112245 , vr 0.282951
+future 10 wr 0.105529 , vr 0.291816
+future 11 wr 0.099354 , vr 0.300748
+future 12 wr 0.093668 , vr 0.309740
+future 13 wr 0.088427 , vr 0.318788
+future 14 wr 0.083587 , vr 0.327887
+future 15 wr 0.079112 , vr 0.337033
+计算速度-0.0121526   0.560373
+真实速度0.00867741   0.194073
+handleFutureTraMsg
+ curTime : 10
+ xr : 0.102322 yr : 0.773682 thetar: -0.278072
+state -0.022830 -0.026410 -0.278924
+robot's locatoion 0.125725 0.100112 0.000852
+future 0 wr 0.138901 , vr 0.236486
+future 1 wr 0.131588 , vr 0.242968
+future 2 wr 0.124752 , vr 0.249536
+future 3 wr 0.118362 , vr 0.256184
+future 4 wr 0.112387 , vr 0.262905
+future 5 wr 0.106800 , vr 0.269694
+future 6 wr 0.101574 , vr 0.276546
+future 7 wr 0.096682 , vr 0.283456
+future 8 wr 0.092101 , vr 0.290420
+future 9 wr 0.087808 , vr 0.297434
+future 10 wr 0.083782 , vr 0.304496
+future 11 wr 0.080005 , vr 0.311601
+future 12 wr 0.076458 , vr 0.318747
+future 13 wr 0.073125 , vr 0.325930
+future 14 wr 0.069990 , vr 0.333150
+future 15 wr 0.067039 , vr 0.340403
+计算速度-0.0575234   0.54599
+真实速度-0.000788844   0.224297
+handleFutureTraMsg
+ curTime : 11
+ xr : 0.131089 yr : 0.76186 thetar: -0.263548
+state -0.027762 -0.038254 -0.264435
+robot's locatoion 0.159438 0.100140 0.000887
+future 0 wr 0.154052 , vr 0.240422
+future 1 wr 0.146516 , vr 0.246528
+future 2 wr 0.139399 , vr 0.252742
+future 3 wr 0.132687 , vr 0.259056
+future 4 wr 0.126358 , vr 0.265464
+future 5 wr 0.120396 , vr 0.271958
+future 6 wr 0.114779 , vr 0.278533
+future 7 wr 0.109489 , vr 0.285183
+future 8 wr 0.104506 , vr 0.291902
+future 9 wr 0.099812 , vr 0.298687
+future 10 wr 0.095389 , vr 0.305532
+future 11 wr 0.091221 , vr 0.312435
+future 12 wr 0.087291 , vr 0.319390
+future 13 wr 0.083585 , vr 0.326395
+future 14 wr 0.080087 , vr 0.333447
+future 15 wr 0.076784 , vr 0.340543
+计算速度-0.0514843   0.580258
+真实速度0.0141994   0.251973
+handleFutureTraMsg
+ curTime : 12
+ xr : 0.162098 yr : 0.746765 thetar: -0.289522
+state -0.037206 -0.053374 -0.290694
+robot's locatoion 0.200061 0.100183 0.001171
+future 0 wr 0.357893 , vr 0.210230
+future 1 wr 0.339251 , vr 0.215929
+future 2 wr 0.320559 , vr 0.222135
+future 3 wr 0.302135 , vr 0.228808
+future 4 wr 0.284224 , vr 0.235907
+future 5 wr 0.267003 , vr 0.243396
+future 6 wr 0.250592 , vr 0.251240
+future 7 wr 0.235064 , vr 0.259405
+future 8 wr 0.220453 , vr 0.267864
+future 9 wr 0.206764 , vr 0.276588
+future 10 wr 0.193983 , vr 0.285555
+future 11 wr 0.182080 , vr 0.294741
+future 12 wr 0.171016 , vr 0.304126
+future 13 wr 0.160743 , vr 0.313694
+future 14 wr 0.151214 , vr 0.323427
+future 15 wr 0.142378 , vr 0.333311
+计算速度0.0250515   0.765977
+真实速度0.0189326   0.285252
+handleFutureTraMsg
+ curTime : 13
+ xr : 0.188593 yr : 0.735476 thetar: -0.310263
+state -0.052853 -0.064702 -0.311293
+robot's locatoion 0.242100 0.100233 0.001029
+future 0 wr 0.324151 , vr 0.163198
+future 1 wr 0.301441 , vr 0.169233
+future 2 wr 0.280031 , vr 0.175584
+future 3 wr 0.260019 , vr 0.182215
+future 4 wr 0.241434 , vr 0.189099
+future 5 wr 0.224256 , vr 0.196207
+future 6 wr 0.208434 , vr 0.203518
+future 7 wr 0.193897 , vr 0.211009
+future 8 wr 0.180562 , vr 0.218663
+future 9 wr 0.168339 , vr 0.226462
+future 10 wr 0.157141 , vr 0.234392
+future 11 wr 0.146880 , vr 0.242441
+future 12 wr 0.137476 , vr 0.250596
+future 13 wr 0.128850 , vr 0.258849
+future 14 wr 0.120931 , vr 0.267189
+future 15 wr 0.113655 , vr 0.275609
+计算速度0.0152629   0.745348
+真实速度0.00709969   0.313947
+handleFutureTraMsg
+ curTime : 14
+ xr : 0.215372 yr : 0.725354 thetar: -0.29862
+state -0.072184 -0.074861 -0.299662
+robot's locatoion 0.288207 0.100290 0.001041
+future 0 wr 0.163020 , vr 0.136691
+future 1 wr 0.151648 , vr 0.141723
+future 2 wr 0.141298 , vr 0.146822
+future 3 wr 0.131868 , vr 0.151981
+future 4 wr 0.123267 , vr 0.157194
+future 5 wr 0.115411 , vr 0.162456
+future 6 wr 0.108226 , vr 0.167762
+future 7 wr 0.101644 , vr 0.173108
+future 8 wr 0.095606 , vr 0.178491
+future 9 wr 0.090058 , vr 0.183907
+future 10 wr 0.084952 , vr 0.189354
+future 11 wr 0.080245 , vr 0.194828
+future 12 wr 0.075899 , vr 0.200329
+future 13 wr 0.071880 , vr 0.205852
+future 14 wr 0.068158 , vr 0.211398
+future 15 wr 0.064706 , vr 0.216963
+计算速度-0.042294   0.629393
+真实速度-0.00236656   0.338398
+handleFutureTraMsg
+ curTime : 15
+ xr : 0.246981 yr : 0.719492 thetar: -0.134828
+state -0.090559 -0.080762 -0.135763
+robot's locatoion 0.338118 0.100339 0.000935
+future 0 wr 0.318898 , vr 0.161518
+future 1 wr 0.263531 , vr 0.177677
+future 2 wr 0.220846 , vr 0.194089
+future 3 wr 0.187403 , vr 0.210697
+future 4 wr 0.160804 , vr 0.227456
+future 5 wr 0.139353 , vr 0.244337
+future 6 wr 0.121833 , vr 0.261314
+future 7 wr 0.107360 , vr 0.278371
+future 8 wr 0.095278 , vr 0.295494
+future 9 wr 0.085097 , vr 0.312672
+future 10 wr 0.076443 , vr 0.329896
+future 11 wr 0.069029 , vr 0.347160
+future 12 wr 0.062632 , vr 0.364457
+future 13 wr 0.057076 , vr 0.381784
+future 14 wr 0.052222 , vr 0.399136
+future 15 wr 0.047956 , vr 0.416511
+计算速度0.0104072   0.728446
+真实速度0.00157769   0.367093
+handleFutureTraMsg
+ curTime : 16
+ xr : 0.281159 yr : 0.717785 thetar: 0.0872666
+state -0.114013 -0.082523 0.086509
+robot's locatoion 0.395640 0.100395 0.000757
+future 0 wr 0.069760 , vr 0.191912
+future 1 wr 0.061760 , vr 0.203963
+future 2 wr 0.055054 , vr 0.216029
+future 3 wr 0.049377 , vr 0.228109
+future 4 wr 0.044531 , vr 0.240200
+future 5 wr 0.040362 , vr 0.252301
+future 6 wr 0.036750 , vr 0.264410
+future 7 wr 0.033600 , vr 0.276526
+future 8 wr 0.030837 , vr 0.288649
+future 9 wr 0.028400 , vr 0.300778
+future 10 wr 0.026240 , vr 0.312911
+future 11 wr 0.024317 , vr 0.325049
+future 12 wr 0.022597 , vr 0.337191
+future 13 wr 0.021053 , vr 0.349336
+future 14 wr 0.019662 , vr 0.361485
+future 15 wr 0.018404 , vr 0.373636
+计算速度-0.054224   0.607862
+真实速度0.00788857   0.403089
+handleFutureTraMsg
+ curTime : 17
+ xr : 0.315045 yr : 0.717123 thetar: 0.325187
+state -0.138854 -0.083171 0.324075
+robot's locatoion 0.454585 0.100449 0.001112
+future 0 wr -0.694057 , vr 0.259243
+future 1 wr -0.653994 , vr 0.267065
+future 2 wr -0.606968 , vr 0.277218
+future 3 wr -0.556730 , vr 0.289456
+future 4 wr -0.506310 , vr 0.303526
+future 5 wr -0.457844 , vr 0.319187
+future 6 wr -0.412639 , vr 0.336217
+future 7 wr -0.371345 , vr 0.354418
+future 8 wr -0.334158 , vr 0.373619
+future 9 wr -0.300980 , vr 0.393673
+future 10 wr -0.271549 , vr 0.414458
+future 11 wr -0.245527 , vr 0.435868
+future 12 wr -0.222550 , vr 0.457816
+future 13 wr -0.202262 , vr 0.480228
+future 14 wr -0.184332 , vr 0.503041
+future 15 wr -0.168461 , vr 0.526205
+计算速度-0.351198   0.0378283
+真实速度-0.037865   0.427878
+handleFutureTraMsg
+ curTime : 18
+ xr : 0.344855 yr : 0.717821 thetar: 0.468986
+state -0.168488 -0.082535 0.468051
+robot's locatoion 0.513920 0.100514 0.000935
+future 0 wr -0.306588 , vr 0.330897
+future 1 wr -0.299446 , vr 0.334820
+future 2 wr -0.291494 , vr 0.339356
+future 3 wr -0.282886 , vr 0.344481
+future 4 wr -0.273771 , vr 0.350168
+future 5 wr -0.264293 , vr 0.356391
+future 6 wr -0.254585 , vr 0.363123
+future 7 wr -0.244766 , vr 0.370335
+future 8 wr -0.234939 , vr 0.378001
+future 9 wr -0.225195 , vr 0.386092
+future 10 wr -0.215607 , vr 0.394584
+future 11 wr -0.206235 , vr 0.403450
+future 12 wr -0.197125 , vr 0.412667
+future 13 wr -0.188314 , vr 0.422211
+future 14 wr -0.179825 , vr 0.432061
+future 15 wr -0.171676 , vr 0.442196
+计算速度-0.20413   0.22148
+真实速度-0.0189325   0.415653
+handleFutureTraMsg
+ curTime : 19
+ xr : 0.387927 yr : 0.727222 thetar: 0.440736
+state -0.185150 -0.073156 0.439648
+robot's locatoion 0.573759 0.100580 0.001089
+future 0 wr -0.197064 , vr 0.343316
+future 1 wr -0.190501 , vr 0.349180
+future 2 wr -0.183991 , vr 0.355303
+future 3 wr -0.177569 , vr 0.361671
+future 4 wr -0.171260 , vr 0.368272
+future 5 wr -0.165087 , vr 0.375095
+future 6 wr -0.159068 , vr 0.382125
+future 7 wr -0.153216 , vr 0.389354
+future 8 wr -0.147543 , vr 0.396769
+future 9 wr -0.142055 , vr 0.404360
+future 10 wr -0.136757 , vr 0.412118
+future 11 wr -0.131651 , vr 0.420034
+future 12 wr -0.126738 , vr 0.428098
+future 13 wr -0.122016 , vr 0.436303
+future 14 wr -0.117484 , vr 0.444640
+future 15 wr -0.113136 , vr 0.453103
+计算速度-0.152885   0.264175
+真实速度-0.0157771   0.388826
+handleFutureTraMsg
+ curTime : 20
+ xr : 0.431757 yr : 0.741813 thetar: 0.375738
+state -0.193301 -0.058643 0.374815
+robot's locatoion 0.625650 0.100634 0.000923
+future 0 wr -0.201010 , vr 0.352779
+future 1 wr -0.191830 , vr 0.361121
+future 2 wr -0.182995 , vr 0.369736
+future 3 wr -0.174524 , vr 0.378603
+future 4 wr -0.166425 , vr 0.387706
+future 5 wr -0.158701 , vr 0.397028
+future 6 wr -0.151351 , vr 0.406555
+future 7 wr -0.144367 , vr 0.416272
+future 8 wr -0.137742 , vr 0.426166
+future 9 wr -0.131462 , vr 0.436225
+future 10 wr -0.125516 , vr 0.446438
+future 11 wr -0.119889 , vr 0.456795
+future 12 wr -0.114566 , vr 0.467286
+future 13 wr -0.109533 , vr 0.477903
+future 14 wr -0.104774 , vr 0.488636
+future 15 wr -0.100274 , vr 0.499479
+计算速度-0.139151   0.222717
+真实速度0   0.36098
+handleFutureTraMsg
+ curTime : 21
+ xr : 0.481313 yr : 0.757464 thetar: 0.25777
+state -0.191715 -0.043034 0.256906
+robot's locatoion 0.673595 0.100664 0.000864
+future 0 wr 0.022106 , vr 0.336237
+future 1 wr 0.021539 , vr 0.340633
+future 2 wr 0.020993 , vr 0.345033
+future 3 wr 0.020467 , vr 0.349435
+future 4 wr 0.019961 , vr 0.353841
+future 5 wr 0.019473 , vr 0.358249
+future 6 wr 0.019002 , vr 0.362660
+future 7 wr 0.018548 , vr 0.367074
+future 8 wr 0.018109 , vr 0.371491
+future 9 wr 0.017686 , vr 0.375909
+future 10 wr 0.017277 , vr 0.380331
+future 11 wr 0.016882 , vr 0.384754
+future 12 wr 0.016500 , vr 0.389180
+future 13 wr 0.016131 , vr 0.393608
+future 14 wr 0.015774 , vr 0.398039
+future 15 wr 0.015429 , vr 0.402471
+计算速度-0.0419264   0.368028
+真实速度0.016566   0.333304
+handleFutureTraMsg
+ curTime : 22
+ xr : 0.525813 yr : 0.769093 thetar: 0.176613
+state -0.193654 -0.031438 0.175714
+robot's locatoion 0.720068 0.100706 0.000899
+future 0 wr 0.081453 , vr 0.294532
+future 1 wr 0.085048 , vr 0.288239
+future 2 wr 0.088860 , vr 0.281990
+future 3 wr 0.092903 , vr 0.275785
+future 4 wr 0.097193 , vr 0.269629
+future 5 wr 0.101748 , vr 0.263526
+future 6 wr 0.106584 , vr 0.257478
+future 7 wr 0.111720 , vr 0.251490
+future 8 wr 0.117175 , vr 0.245566
+future 9 wr 0.122970 , vr 0.239710
+future 10 wr 0.129123 , vr 0.233929
+future 11 wr 0.135655 , vr 0.228228
+future 12 wr 0.142585 , vr 0.222612
+future 13 wr 0.149933 , vr 0.217089
+future 14 wr 0.157714 , vr 0.211666
+future 15 wr 0.165945 , vr 0.206350
+计算速度-0.0114306   0.430994
+真实速度0.00157775   0.340605
+handleFutureTraMsg
+ curTime : 23
+ xr : 0.575303 yr : 0.774738 thetar: 0.113011
+state -0.197409 -0.025709 0.111390
+robot's locatoion 0.773805 0.100767 0.001621
+future 0 wr -0.115516 , vr 0.293236
+future 1 wr -0.123491 , vr 0.283609
+future 2 wr -0.132236 , vr 0.274071
+future 3 wr -0.141839 , vr 0.264631
+future 4 wr -0.152397 , vr 0.255300
+future 5 wr -0.164018 , vr 0.246089
+future 6 wr -0.176819 , vr 0.237015
+future 7 wr -0.190924 , vr 0.228091
+future 8 wr -0.206467 , vr 0.219338
+future 9 wr -0.223582 , vr 0.210776
+future 10 wr -0.242400 , vr 0.202429
+future 11 wr -0.263038 , vr 0.194326
+future 12 wr -0.285584 , vr 0.186497
+future 13 wr -0.310078 , vr 0.178980
+future 14 wr -0.336482 , vr 0.171814
+future 15 wr -0.364644 , vr 0.165046
+计算速度-0.0748843   0.20814
+真实速度0.0118329   0.378469
+handleFutureTraMsg
+ curTime : 24
+ xr : 0.628856 yr : 0.77506 thetar: 0.0321465
+state -0.195394 -0.025529 0.030857
+robot's locatoion 0.825120 0.100841 0.001290
+future 0 wr -0.113574 , vr 0.307172
+future 1 wr -0.121114 , vr 0.297457
+future 2 wr -0.129351 , vr 0.287830
+future 3 wr -0.138360 , vr 0.278302
+future 4 wr -0.148223 , vr 0.268883
+future 5 wr -0.159032 , vr 0.259585
+future 6 wr -0.170884 , vr 0.250421
+future 7 wr -0.183884 , vr 0.241406
+future 8 wr -0.198142 , vr 0.232559
+future 9 wr -0.213768 , vr 0.223898
+future 10 wr -0.230869 , vr 0.215446
+future 11 wr -0.249541 , vr 0.207229
+future 12 wr -0.269857 , vr 0.199276
+future 13 wr -0.291853 , vr 0.191619
+future 14 wr -0.315506 , vr 0.184297
+future 15 wr -0.340711 , vr 0.177349
+计算速度-0.100973   0.184185
+真实速度-0.00315538   0.355207
+handleFutureTraMsg
+ curTime : 25
+ xr : 0.682827 yr : 0.772209 thetar: -0.0246995
+state -0.188996 -0.028405 -0.026273
+robot's locatoion 0.872879 0.100913 0.001574
+future 0 wr -0.134087 , vr 0.338842
+future 1 wr -0.137055 , vr 0.335152
+future 2 wr -0.140014 , vr 0.331592
+future 3 wr -0.142955 , vr 0.328164
+future 4 wr -0.145866 , vr 0.324873
+future 5 wr -0.148736 , vr 0.321723
+future 6 wr -0.151553 , vr 0.318718
+future 7 wr -0.154306 , vr 0.315863
+future 8 wr -0.156979 , vr 0.313161
+future 9 wr -0.159561 , vr 0.310618
+future 10 wr -0.162037 , vr 0.308235
+future 11 wr -0.164394 , vr 0.306018
+future 12 wr -0.166617 , vr 0.303970
+future 13 wr -0.168693 , vr 0.302093
+future 14 wr -0.170608 , vr 0.300393
+future 15 wr -0.172350 , vr 0.298871
+计算速度-0.113891   0.166077
+真实速度0.0307653   0.329568
+handleFutureTraMsg
+ curTime : 26
+ xr : 0.731549 yr : 0.773706 thetar: -0.0669491
+state -0.187144 -0.027011 -0.068357
+robot's locatoion 0.919640 0.100981 0.001408
+future 0 wr -0.119597 , vr 0.365754
+future 1 wr -0.122624 , vr 0.361211
+future 2 wr -0.125690 , vr 0.356779
+future 3 wr -0.128787 , vr 0.352462
+future 4 wr -0.131911 , vr 0.348265
+future 5 wr -0.135051 , vr 0.344191
+future 6 wr -0.138202 , vr 0.340245
+future 7 wr -0.141352 , vr 0.336433
+future 8 wr -0.144492 , vr 0.332757
+future 9 wr -0.147610 , vr 0.329224
+future 10 wr -0.150695 , vr 0.325836
+future 11 wr -0.153734 , vr 0.322600
+future 12 wr -0.156712 , vr 0.319520
+future 13 wr -0.159616 , vr 0.316600
+future 14 wr -0.162431 , vr 0.313844
+future 15 wr -0.165142 , vr 0.311258
+计算速度-0.154381   0.153097
+真实速度-0.00552201   0.299685
+handleFutureTraMsg
+ curTime : 27
+ xr : 0.780597 yr : 0.769581 thetar: -0.114372
+state -0.177857 -0.031290 -0.115212
+robot's locatoion 0.959015 0.101021 0.000840
+future 0 wr -0.059334 , vr 0.366615
+future 1 wr -0.061245 , vr 0.360850
+future 2 wr -0.063240 , vr 0.355112
+future 3 wr -0.065323 , vr 0.349404
+future 4 wr -0.067499 , vr 0.343726
+future 5 wr -0.069773 , vr 0.338080
+future 6 wr -0.072148 , vr 0.332467
+future 7 wr -0.074631 , vr 0.326890
+future 8 wr -0.077226 , vr 0.321350
+future 9 wr -0.079940 , vr 0.315850
+future 10 wr -0.082777 , vr 0.310390
+future 11 wr -0.085743 , vr 0.304974
+future 12 wr -0.088844 , vr 0.299604
+future 13 wr -0.092087 , vr 0.294282
+future 14 wr -0.095476 , vr 0.289011
+future 15 wr -0.099019 , vr 0.283794
+计算速度-0.145214   0.184543
+真实速度-0.00236656   0.269122
+handleFutureTraMsg
+ curTime : 28
+ xr : 0.829639 yr : 0.757846 thetar: -0.150805
+state -0.164196 -0.043080 -0.151574
+robot's locatoion 0.994341 0.101053 0.000769
+future 0 wr 0.002419 , vr 0.344494
+future 1 wr 0.002484 , vr 0.339939
+future 2 wr 0.002552 , vr 0.335384
+future 3 wr 0.002623 , vr 0.330829
+future 4 wr 0.002697 , vr 0.326274
+future 5 wr 0.002774 , vr 0.321719
+future 6 wr 0.002854 , vr 0.317164
+future 7 wr 0.002938 , vr 0.312609
+future 8 wr 0.003025 , vr 0.308054
+future 9 wr 0.003117 , vr 0.303499
+future 10 wr 0.003212 , vr 0.298944
+future 11 wr 0.003312 , vr 0.294390
+future 12 wr 0.003417 , vr 0.289835
+future 13 wr 0.003527 , vr 0.285281
+future 14 wr 0.003643 , vr 0.280726
+future 15 wr 0.003764 , vr 0.276172
+计算速度-0.12544   0.223948
+真实速度0.00709969   0.242295
+handleFutureTraMsg
+ curTime : 29
+ xr : 0.873063 yr : 0.744893 thetar: -0.18183
+state -0.157281 -0.056945 -0.176683
+robot's locatoion 1.027032 0.101037 -0.005147
+future 0 wr 0.071085 , vr 0.296405
+future 1 wr 0.073352 , vr 0.291787
+future 2 wr 0.075714 , vr 0.287202
+future 3 wr 0.078172 , vr 0.282650
+future 4 wr 0.080731 , vr 0.278133
+future 5 wr 0.083396 , vr 0.273653
+future 6 wr 0.086170 , vr 0.269212
+future 7 wr 0.089058 , vr 0.264812
+future 8 wr 0.092062 , vr 0.260455
+future 9 wr 0.095188 , vr 0.256143
+future 10 wr 0.098439 , vr 0.251879
+future 11 wr 0.101818 , vr 0.247664
+future 12 wr 0.105328 , vr 0.243502
+future 13 wr 0.108973 , vr 0.239394
+future 14 wr 0.112755 , vr 0.235345
+future 15 wr 0.116676 , vr 0.231357
+计算速度-0.154637   0.280324
+真实速度-0.0804633   0.233975
+handleFutureTraMsg
+ curTime : 30
+ xr : 0.907271 yr : 0.73887 thetar: -0.177101
+state -0.168139 -0.065046 -0.156654
+robot's locatoion 1.062393 0.100611 -0.020447
+future 0 wr 0.028925 , vr 0.234343
+future 1 wr 0.030443 , vr 0.228425
+future 2 wr 0.032083 , vr 0.222511
+future 3 wr 0.033857 , vr 0.216601
+future 4 wr 0.035781 , vr 0.210697
+future 5 wr 0.037872 , vr 0.204798
+future 6 wr 0.040149 , vr 0.198906
+future 7 wr 0.042636 , vr 0.193019
+future 8 wr 0.045356 , vr 0.187140
+future 9 wr 0.048342 , vr 0.181269
+future 10 wr 0.051628 , vr 0.175407
+future 11 wr 0.055253 , vr 0.169554
+future 12 wr 0.059268 , vr 0.163711
+future 13 wr 0.063726 , vr 0.157881
+future 14 wr 0.068695 , vr 0.152063
+future 15 wr 0.074254 , vr 0.146260
+计算速度-0.173746   0.232146
+真实速度-0.112018   0.248917
+handleFutureTraMsg
+ curTime : 31
+ xr : 0.943571 yr : 0.728514 thetar: -0.122745
+state -0.176767 -0.077263 -0.085601
+robot's locatoion 1.097091 0.099642 -0.037143
+future 0 wr 0.384822 , vr 0.187714
+future 1 wr 0.374638 , vr 0.190248
+future 2 wr 0.362799 , vr 0.193327
+future 3 wr 0.349661 , vr 0.196926
+future 4 wr 0.335576 , vr 0.201016
+future 5 wr 0.320877 , vr 0.205568
+future 6 wr 0.305864 , vr 0.210553
+future 7 wr 0.290794 , vr 0.215940
+future 8 wr 0.275881 , vr 0.221700
+future 9 wr 0.261293 , vr 0.227804
+future 10 wr 0.247161 , vr 0.234226
+future 11 wr 0.233577 , vr 0.240941
+future 12 wr 0.220604 , vr 0.247924
+future 13 wr 0.208280 , vr 0.255154
+future 14 wr 0.196621 , vr 0.262610
+future 15 wr 0.185629 , vr 0.270273
+计算速度-0.0421876   0.516481
+真实速度-0.123061   0.242804
+handleFutureTraMsg
+ curTime : 32
+ xr : 0.976898 yr : 0.716126 thetar: -0.0190681
+state -0.189986 -0.091834 0.038510
+robot's locatoion 1.131571 0.098034 -0.057579
+future 0 wr 0.813340 , vr 0.171685
+future 1 wr 0.734124 , vr 0.180711
+future 2 wr 0.652193 , vr 0.191726
+future 3 wr 0.573769 , vr 0.204409
+future 4 wr 0.502290 , vr 0.218470
+future 5 wr 0.439105 , vr 0.233660
+future 6 wr 0.384278 , vr 0.249773
+future 7 wr 0.337193 , vr 0.266643
+future 8 wr 0.296957 , vr 0.284133
+future 9 wr 0.262621 , vr 0.302137
+future 10 wr 0.233291 , vr 0.320568
+future 11 wr 0.208174 , vr 0.339356
+future 12 wr 0.186591 , vr 0.358446
+future 13 wr 0.167972 , vr 0.377791
+future 14 wr 0.151839 , vr 0.397354
+future 15 wr 0.137800 , vr 0.417105
+计算速度0.121249   0.808801
+真实速度-0.150671   0.255878
+handleFutureTraMsg
+ curTime : 33
+ xr : 1.00787 yr : 0.715594 thetar: 0.16054
+state -0.213764 -0.094711 0.240115
+robot's locatoion 1.172839 0.095229 -0.079576
+future 0 wr 0.394765 , vr 0.196447
+future 1 wr 0.363115 , vr 0.204830
+future 2 wr 0.333396 , vr 0.213764
+future 3 wr 0.305845 , vr 0.223185
+future 4 wr 0.280542 , vr 0.233032
+future 5 wr 0.257459 , vr 0.243255
+future 6 wr 0.236496 , vr 0.253807
+future 7 wr 0.217515 , vr 0.264649
+future 8 wr 0.200358 , vr 0.275748
+future 9 wr 0.184861 , vr 0.287073
+future 10 wr 0.170866 , vr 0.298598
+future 11 wr 0.158220 , vr 0.310302
+future 12 wr 0.146782 , vr 0.322165
+future 13 wr 0.136426 , vr 0.334169
+future 14 wr 0.127035 , vr 0.346301
+future 15 wr 0.118505 , vr 0.358547
+计算速度0.0243739   0.614822
+真实速度-0.139627   0.288139
+handleFutureTraMsg
+ curTime : 34
+ xr : 1.04238 yr : 0.718878 thetar: 0.357416
+state -0.234609 -0.092926 0.457273
+robot's locatoion 1.215299 0.091439 -0.099857
+future 0 wr -0.313357 , vr 0.224417
+future 1 wr -0.294193 , vr 0.231612
+future 2 wr -0.275787 , vr 0.239216
+future 3 wr -0.258278 , vr 0.247191
+future 4 wr -0.241745 , vr 0.255504
+future 5 wr -0.226227 , vr 0.264122
+future 6 wr -0.211728 , vr 0.273016
+future 7 wr -0.198227 , vr 0.282160
+future 8 wr -0.185688 , vr 0.291531
+future 9 wr -0.174065 , vr 0.301107
+future 10 wr -0.163304 , vr 0.310870
+future 11 wr -0.153348 , vr 0.320802
+future 12 wr -0.144142 , vr 0.330888
+future 13 wr -0.135629 , vr 0.341115
+future 14 wr -0.127755 , vr 0.351470
+future 15 wr -0.120469 , vr 0.361942
+计算速度-0.201868   0.0881242
+真实速度-0.145938   0.314626
+handleFutureTraMsg
+ curTime : 35
+ xr : 1.06982 yr : 0.720962 thetar: 0.4671
+state -0.264135 -0.093042 0.587665
+robot's locatoion 1.259041 0.086641 -0.120565
+future 0 wr -0.421474 , vr 0.284830
+future 1 wr -0.407408 , vr 0.289705
+future 2 wr -0.391423 , vr 0.295562
+future 3 wr -0.374062 , vr 0.302343
+future 4 wr -0.355840 , vr 0.309987
+future 5 wr -0.337214 , vr 0.318433
+future 6 wr -0.318569 , vr 0.327619
+future 7 wr -0.300218 , vr 0.337484
+future 8 wr -0.282396 , vr 0.347970
+future 9 wr -0.265275 , vr 0.359024
+future 10 wr -0.248970 , vr 0.370593
+future 11 wr -0.233550 , vr 0.382632
+future 12 wr -0.219045 , vr 0.395098
+future 13 wr -0.205460 , vr 0.407950
+future 14 wr -0.192778 , vr 0.421155
+future 15 wr -0.180969 , vr 0.434680
+计算速度-0.241354   -0.0616408
+真实速度-0.152249   0.308174
+handleFutureTraMsg
+ curTime : 36
+ xr : 1.09653 yr : 0.729691 thetar: 0.536116
+state -0.291783 -0.086696 0.677364
+robot's locatoion 1.299064 0.081418 -0.141249
+future 0 wr -0.433226 , vr 0.312725
+future 1 wr -0.423949 , vr 0.316129
+future 2 wr -0.411972 , vr 0.320691
+future 3 wr -0.397774 , vr 0.326364
+future 4 wr -0.381869 , vr 0.333091
+future 5 wr -0.364768 , vr 0.340810
+future 6 wr -0.346944 , vr 0.349455
+future 7 wr -0.328816 , vr 0.358959
+future 8 wr -0.310734 , vr 0.369255
+future 9 wr -0.292978 , vr 0.380280
+future 10 wr -0.275761 , vr 0.391971
+future 11 wr -0.259235 , vr 0.404272
+future 12 wr -0.243502 , vr 0.417128
+future 13 wr -0.228622 , vr 0.430489
+future 14 wr -0.214620 , vr 0.444310
+future 15 wr -0.201498 , vr 0.458549
+计算速度-0.231342   -0.155348
+真实速度-0.145149   0.27914
+handleFutureTraMsg
+ curTime : 37
+ xr : 1.1296 yr : 0.747196 thetar: 0.574911
+state -0.314236 -0.071073 0.738145
+robot's locatoion 1.337450 0.075562 -0.163234
+future 0 wr -0.743122 , vr 0.294295
+future 1 wr -0.723503 , vr 0.298258
+future 2 wr -0.690049 , vr 0.305403
+future 3 wr -0.646539 , vr 0.315512
+future 4 wr -0.597108 , vr 0.328312
+future 5 wr -0.545465 , vr 0.343502
+future 6 wr -0.494468 , vr 0.360781
+future 7 wr -0.446036 , vr 0.379863
+future 8 wr -0.401271 , vr 0.400492
+future 9 wr -0.360658 , vr 0.422440
+future 10 wr -0.324269 , vr 0.445512
+future 11 wr -0.291927 , vr 0.469543
+future 12 wr -0.263317 , vr 0.494394
+future 13 wr -0.238073 , vr 0.519945
+future 14 wr -0.215814 , vr 0.546100
+future 15 wr -0.196181 , vr 0.572776
+计算速度-0.324688   -0.486838
+真实速度-0.146727   0.246879
+handleFutureTraMsg
+ curTime : 38
+ xr : 1.16786 yr : 0.770084 thetar: 0.569232
+state -0.325799 -0.048545 0.753078
+robot's locatoion 1.369073 0.070047 -0.183847
+future 0 wr -0.138551 , vr 0.239862
+future 1 wr -0.131568 , vr 0.246145
+future 2 wr -0.125014 , vr 0.252515
+future 3 wr -0.118864 , vr 0.258965
+future 4 wr -0.113093 , vr 0.265490
+future 5 wr -0.107677 , vr 0.272085
+future 6 wr -0.102594 , vr 0.278744
+future 7 wr -0.097821 , vr 0.285463
+future 8 wr -0.093338 , vr 0.292238
+future 9 wr -0.089126 , vr 0.299065
+future 10 wr -0.085165 , vr 0.305940
+future 11 wr -0.081439 , vr 0.312861
+future 12 wr -0.077931 , vr 0.319824
+future 13 wr -0.074627 , vr 0.326826
+future 14 wr -0.071513 , vr 0.333866
+future 15 wr -0.068576 , vr 0.340941
+计算速度-0.0879906   -0.0684474
+真实速度-0.141994   0.220731
+handleFutureTraMsg
+ curTime : 39
+ xr : 1.19815 yr : 0.781476 thetar: 0.534705
+state -0.340112 -0.038458 0.739318
+robot's locatoion 1.396754 0.064628 -0.204613
+future 0 wr 0.672541 , vr 0.181892
+future 1 wr 0.620208 , vr 0.189411
+future 2 wr 0.565183 , vr 0.198417
+future 3 wr 0.510769 , vr 0.208718
+future 4 wr 0.459171 , vr 0.220133
+future 5 wr 0.411631 , vr 0.232498
+future 6 wr 0.368678 , vr 0.245668
+future 7 wr 0.330366 , vr 0.259523
+future 8 wr 0.296471 , vr 0.273956
+future 9 wr 0.266625 , vr 0.288883
+future 10 wr 0.240403 , vr 0.304230
+future 11 wr 0.217378 , vr 0.319938
+future 12 wr 0.197145 , vr 0.335954
+future 13 wr 0.179339 , vr 0.352238
+future 14 wr 0.163634 , vr 0.368753
+future 15 wr 0.149749 , vr 0.385471
+计算速度0.241786   0.510608
+真实速度-0.134894   0.194413
+handleFutureTraMsg
+ curTime : 40
+ xr : 1.23679 yr : 0.796491 thetar: 0.51985
+state -0.349113 -0.023146 0.746555
+robot's locatoion 1.424836 0.058486 -0.226705
+future 0 wr 0.421612 , vr 0.191255
+future 1 wr 0.383466 , vr 0.200542
+future 2 wr 0.348267 , vr 0.210432
+future 3 wr 0.316201 , vr 0.220845
+future 4 wr 0.287244 , vr 0.231709
+future 5 wr 0.261248 , vr 0.242964
+future 6 wr 0.237991 , vr 0.254559
+future 7 wr 0.217225 , vr 0.266449
+future 8 wr 0.198696 , vr 0.278595
+future 9 wr 0.182159 , vr 0.290967
+future 10 wr 0.167385 , vr 0.303536
+future 11 wr 0.154168 , vr 0.316280
+future 12 wr 0.142325 , vr 0.329176
+future 13 wr 0.131690 , vr 0.342210
+future 14 wr 0.122121 , vr 0.355364
+future 15 wr 0.113491 , vr 0.368627
+计算速度0.190012   0.391644
+真实速度-0.143572   0.201714
+handleFutureTraMsg
+ curTime : 41
+ xr : 1.2842 yr : 0.804542 thetar: 0.372958
+state -0.347391 -0.010594 0.617910
+robot's locatoion 1.454038 0.051471 -0.244951
+future 0 wr -0.130248 , vr 0.258893
+future 1 wr -0.135835 , vr 0.253513
+future 2 wr -0.141681 , vr 0.248228
+future 3 wr -0.147788 , vr 0.243045
+future 4 wr -0.154158 , vr 0.237970
+future 5 wr -0.160790 , vr 0.233011
+future 6 wr -0.167678 , vr 0.228175
+future 7 wr -0.174812 , vr 0.223470
+future 8 wr -0.182180 , vr 0.218905
+future 9 wr -0.189761 , vr 0.214488
+future 10 wr -0.197528 , vr 0.210229
+future 11 wr -0.205448 , vr 0.206137
+future 12 wr -0.213478 , vr 0.202223
+future 13 wr -0.221567 , vr 0.198497
+future 14 wr -0.229655 , vr 0.194970
+future 15 wr -0.237673 , vr 0.191653
+计算速度0.0229338   -0.0136201
+真实速度-0.117539   0.216826
+handleFutureTraMsg
+ curTime : 42
+ xr : 1.33057 yr : 0.814895 thetar: 0.203544
+state -0.353211 0.003255 0.471025
+robot's locatoion 1.485353 0.043293 -0.267481
+future 0 wr -0.213939 , vr 0.307973
+future 1 wr -0.217664 , vr 0.305326
+future 2 wr -0.221056 , vr 0.302975
+future 3 wr -0.224078 , vr 0.300925
+future 4 wr -0.226693 , vr 0.299184
+future 5 wr -0.228871 , vr 0.297757
+future 6 wr -0.230585 , vr 0.296648
+future 7 wr -0.231813 , vr 0.295862
+future 8 wr -0.232539 , vr 0.295399
+future 9 wr -0.232754 , vr 0.295263
+future 10 wr -0.232453 , vr 0.295454
+future 11 wr -0.231643 , vr 0.295970
+future 12 wr -0.230333 , vr 0.296811
+future 13 wr -0.228540 , vr 0.297973
+future 14 wr -0.226286 , vr 0.299453
+future 15 wr -0.223601 , vr 0.301246
+计算速度-0.0620077   -0.0811437
+真实速度-0.154616   0.220391
+handleFutureTraMsg
+ curTime : 43
+ xr : 1.36592 yr : 0.823779 thetar: 0.098497
+state -0.367826 0.013360 0.388543
+robot's locatoion 1.514369 0.035019 -0.290046
+future 0 wr -0.209071 , vr 0.355111
+future 1 wr -0.210108 , vr 0.354234
+future 2 wr -0.210771 , vr 0.353676
+future 3 wr -0.211054 , vr 0.353439
+future 4 wr -0.210954 , vr 0.353523
+future 5 wr -0.210471 , vr 0.353928
+future 6 wr -0.209610 , vr 0.354654
+future 7 wr -0.208382 , vr 0.355698
+future 8 wr -0.206799 , vr 0.357057
+future 9 wr -0.204877 , vr 0.358727
+future 10 wr -0.202636 , vr 0.360705
+future 11 wr -0.200098 , vr 0.362986
+future 12 wr -0.197287 , vr 0.365563
+future 13 wr -0.194227 , vr 0.368431
+future 14 wr -0.190947 , vr 0.371583
+future 15 wr -0.187471 , vr 0.375011
+计算速度-0.0874252   -0.0920337
+真实速度-0.143572   0.193224
+handleFutureTraMsg
+ curTime : 44
+ xr : 1.41044 yr : 0.825428 thetar: -0.0236365
+state -0.364885 0.020529 0.287023
+robot's locatoion 1.537600 0.027849 -0.310659
+future 0 wr -0.201560 , vr 0.352153
+future 1 wr -0.202943 , vr 0.350951
+future 2 wr -0.203996 , vr 0.350044
+future 3 wr -0.204709 , vr 0.349434
+future 4 wr -0.205074 , vr 0.349123
+future 5 wr -0.205087 , vr 0.349112
+future 6 wr -0.204748 , vr 0.349401
+future 7 wr -0.204061 , vr 0.349989
+future 8 wr -0.203032 , vr 0.350874
+future 9 wr -0.201673 , vr 0.352055
+future 10 wr -0.199996 , vr 0.353528
+future 11 wr -0.198017 , vr 0.355289
+future 12 wr -0.195756 , vr 0.357335
+future 13 wr -0.193233 , vr 0.359661
+future 14 wr -0.190469 , vr 0.362261
+future 15 wr -0.187489 , vr 0.365129
+计算速度-0.108647   -0.119964
+真实速度-0.143572   0.167076
+handleFutureTraMsg
+ curTime : 45
+ xr : 1.45915 yr : 0.820729 thetar: -0.0537786
+state -0.352654 0.023809 0.278121
+robot's locatoion 1.556715 0.021514 -0.331899
+future 0 wr -0.152351 , vr 0.314476
+future 1 wr -0.158141 , vr 0.308665
+future 2 wr -0.164097 , vr 0.303012
+future 3 wr -0.170205 , vr 0.297526
+future 4 wr -0.176447 , vr 0.292215
+future 5 wr -0.182803 , vr 0.287090
+future 6 wr -0.189245 , vr 0.282162
+future 7 wr -0.195742 , vr 0.277439
+future 8 wr -0.202258 , vr 0.272934
+future 9 wr -0.208750 , vr 0.268656
+future 10 wr -0.215169 , vr 0.264618
+future 11 wr -0.221465 , vr 0.260830
+future 12 wr -0.227578 , vr 0.257303
+future 13 wr -0.233446 , vr 0.254049
+future 14 wr -0.239006 , vr 0.251076
+future 15 wr -0.244189 , vr 0.248397
+计算速度-0.0969941   -0.137254
+真实速度-0.141994   0.136174
+handleFutureTraMsg
+ curTime : 46
+ xr : 1.50232 yr : 0.820631 thetar: -0.0601244
+state -0.343204 0.031020 0.292352
+robot's locatoion 1.572055 0.016072 -0.352476
+future 0 wr -0.060624 , vr 0.275686
+future 1 wr -0.066117 , vr 0.263987
+future 2 wr -0.072377 , vr 0.252312
+future 3 wr -0.079553 , vr 0.240663
+future 4 wr -0.087827 , vr 0.229046
+future 5 wr -0.097431 , vr 0.217465
+future 6 wr -0.108655 , vr 0.205926
+future 7 wr -0.121875 , vr 0.194438
+future 8 wr -0.137574 , vr 0.183008
+future 9 wr -0.156384 , vr 0.171649
+future 10 wr -0.179141 , vr 0.160376
+future 11 wr -0.206959 , vr 0.149209
+future 12 wr -0.241339 , vr 0.138173
+future 13 wr -0.284315 , vr 0.127303
+future 14 wr -0.338651 , vr 0.116644
+future 15 wr -0.408070 , vr 0.106260
+计算速度-0.0558081   -0.0944088
+真实速度-0.131739   0.110875
+handleFutureTraMsg
+ curTime : 47
+ xr : 1.54426 yr : 0.812452 thetar: -0.0665788
+state -0.330243 0.030802 0.308084
+robot's locatoion 1.584152 0.011489 -0.374663
+future 0 wr 0.014865 , vr 0.255273
+future 1 wr 0.015806 , vr 0.247554
+future 2 wr 0.016840 , vr 0.239836
+future 3 wr 0.017978 , vr 0.232119
+future 4 wr 0.019236 , vr 0.224404
+future 5 wr 0.020630 , vr 0.216691
+future 6 wr 0.022180 , vr 0.208979
+future 7 wr 0.023912 , vr 0.201270
+future 8 wr 0.025854 , vr 0.193563
+future 9 wr 0.028042 , vr 0.185858
+future 10 wr 0.030519 , vr 0.178157
+future 11 wr 0.033338 , vr 0.170459
+future 12 wr 0.036564 , vr 0.162765
+future 13 wr 0.040280 , vr 0.155075
+future 14 wr 0.044590 , vr 0.147390
+future 15 wr 0.049626 , vr 0.139712
+计算速度-0.0312942   -0.00773041
+真实速度-0.130161   0.0830288
+handleFutureTraMsg
+ curTime : 48
+ xr : 1.58159 yr : 0.809085 thetar: -0.0299651
+state -0.317549 0.034995 0.365358
+robot's locatoion 1.591592 0.008488 -0.395323
+future 0 wr -0.110280 , vr 0.202003
+future 1 wr -0.111663 , vr 0.200748
+future 2 wr -0.113014 , vr 0.199545
+future 3 wr -0.114329 , vr 0.198393
+future 4 wr -0.115606 , vr 0.197295
+future 5 wr -0.116840 , vr 0.196250
+future 6 wr -0.118027 , vr 0.195260
+future 7 wr -0.119165 , vr 0.194326
+future 8 wr -0.120249 , vr 0.193448
+future 9 wr -0.121276 , vr 0.192627
+future 10 wr -0.122243 , vr 0.191864
+future 11 wr -0.123146 , vr 0.191160
+future 12 wr -0.123981 , vr 0.190514
+future 13 wr -0.124747 , vr 0.189929
+future 14 wr -0.125440 , vr 0.189404
+future 15 wr -0.126057 , vr 0.188939
+计算速度-0.0518403   -0.168661
+真实速度-0.108862   0.0607859
+handleFutureTraMsg
+ curTime : 49
+ xr : 1.61634 yr : 0.809151 thetar: 0.0519448
+state -0.304816 0.042354 0.467857
+robot's locatoion 1.595242 0.006931 -0.415912
+future 0 wr 0.164303 , vr 0.164543
+future 1 wr 0.145222 , vr 0.175019
+future 2 wr 0.129177 , vr 0.185571
+future 3 wr 0.115576 , vr 0.196186
+future 4 wr 0.103962 , vr 0.206855
+future 5 wr 0.093974 , vr 0.217569
+future 6 wr 0.085330 , vr 0.228323
+future 7 wr 0.077804 , vr 0.239111
+future 8 wr 0.071215 , vr 0.249929
+future 9 wr 0.065416 , vr 0.260772
+future 10 wr 0.060287 , vr 0.271638
+future 11 wr 0.055730 , vr 0.282525
+future 12 wr 0.051665 , vr 0.293429
+future 13 wr 0.048024 , vr 0.304350
+future 14 wr 0.044750 , vr 0.315285
+future 15 wr 0.041797 , vr 0.326232
+计算速度0.084704   0.0398919
+真实速度-0.0583753   0.0499192
+handleFutureTraMsg
+ curTime : 50
+ xr : 1.64614 yr : 0.809039 thetar: 0.184769
+state -0.290116 0.050031 0.615698
+robot's locatoion 1.596437 0.006391 -0.430928
+future 0 wr 0.656415 , vr 0.184425
+future 1 wr 0.593604 , vr 0.193937
+future 2 wr 0.532064 , vr 0.204845
+future 3 wr 0.474390 , vr 0.216940
+future 4 wr 0.421921 , vr 0.230035
+future 5 wr 0.375106 , vr 0.243967
+future 6 wr 0.333850 , vr 0.258602
+future 7 wr 0.297756 , vr 0.273828
+future 8 wr 0.266298 , vr 0.289551
+future 9 wr 0.238915 , vr 0.305694
+future 10 wr 0.215071 , vr 0.322194
+future 11 wr 0.194276 , vr 0.339000
+future 12 wr 0.176098 , vr 0.356067
+future 13 wr 0.160163 , vr 0.373360
+future 14 wr 0.146150 , vr 0.390849
+future 15 wr 0.133787 , vr 0.408509
+计算速度0.226705   0.396721
+真实速度-0.142783   0.0127345
+handleFutureTraMsg
+ curTime : 51
+ xr : 1.67457 yr : 0.810035 thetar: 0.361256
+state -0.273022 0.061057 0.798716
+robot's locatoion 1.599473 0.004982 -0.437460
+future 0 wr 0.559783 , vr 0.182177
+future 1 wr 0.493596 , vr 0.194007
+future 2 wr 0.434394 , vr 0.206805
+future 3 wr 0.382448 , vr 0.220403
+future 4 wr 0.337385 , vr 0.234660
+future 5 wr 0.298528 , vr 0.249466
+future 6 wr 0.265102 , vr 0.264726
+future 7 wr 0.236347 , vr 0.280368
+future 8 wr 0.211570 , vr 0.296330
+future 9 wr 0.190164 , vr 0.312564
+future 10 wr 0.171607 , vr 0.329030
+future 11 wr 0.155462 , vr 0.345693
+future 12 wr 0.141359 , vr 0.362528
+future 13 wr 0.128990 , vr 0.379511
+future 14 wr 0.118100 , vr 0.396623
+future 15 wr 0.108473 , vr 0.413849
+计算速度0.311174   0.380606
+真实速度-0.0347096   0.0220731
+handleFutureTraMsg
+ curTime : 52
+ xr : 1.70444 yr : 0.819479 thetar: 0.533931
+state -0.261728 0.080779 0.977201
+robot's locatoion 1.605999 0.001906 -0.443270
+future 0 wr 0.280463 , vr 0.192774
+future 1 wr 0.246873 , vr 0.205471
+future 2 wr 0.218460 , vr 0.218424
+future 3 wr 0.194325 , vr 0.231591
+future 4 wr 0.173726 , vr 0.244937
+future 5 wr 0.156053 , vr 0.258434
+future 6 wr 0.140812 , vr 0.272061
+future 7 wr 0.127601 , vr 0.285798
+future 8 wr 0.116092 , vr 0.299630
+future 9 wr 0.106017 , vr 0.313544
+future 10 wr 0.097156 , vr 0.327531
+future 11 wr 0.089328 , vr 0.341581
+future 12 wr 0.082383 , vr 0.355687
+future 13 wr 0.076198 , vr 0.369842
+future 14 wr 0.070667 , vr 0.384041
+future 15 wr 0.065705 , vr 0.398279
+计算速度0.234739   0.245395
+真实速度-0.0638973   0.0466931
+handleFutureTraMsg
+ curTime : 53
+ xr : 1.73236 yr : 0.831711 thetar: 0.687513
+state -0.258006 0.102138 1.137445
+robot's locatoion 1.615833 -0.002804 -0.449932
+future 0 wr 0.037172 , vr 0.248512
+future 1 wr 0.036004 , vr 0.252511
+future 2 wr 0.034888 , vr 0.256516
+future 3 wr 0.033822 , vr 0.260528
+future 4 wr 0.032803 , vr 0.264545
+future 5 wr 0.031827 , vr 0.268569
+future 6 wr 0.030893 , vr 0.272598
+future 7 wr 0.029999 , vr 0.276632
+future 8 wr 0.029141 , vr 0.280672
+future 9 wr 0.028319 , vr 0.284716
+future 10 wr 0.027531 , vr 0.288765
+future 11 wr 0.026774 , vr 0.292818
+future 12 wr 0.026047 , vr 0.296876
+future 13 wr 0.025349 , vr 0.300938
+future 14 wr 0.024677 , vr 0.305004
+future 15 wr 0.024032 , vr 0.309073
+计算速度0.183329   0.116058
+真实速度-0.0567976   0.0798027
+handleFutureTraMsg
+ curTime : 54
+ xr : 1.75563 yr : 0.844969 thetar: 0.791584
+state -0.256679 0.124574 1.240107
+robot's locatoion 1.629356 -0.009350 -0.448524
+future 0 wr 0.004688 , vr 0.289494
+future 1 wr 0.004779 , vr 0.286714
+future 2 wr 0.004873 , vr 0.283935
+future 3 wr 0.004970 , vr 0.281156
+future 4 wr 0.005070 , vr 0.278377
+future 5 wr 0.005173 , vr 0.275598
+future 6 wr 0.005278 , vr 0.272819
+future 7 wr 0.005388 , vr 0.270041
+future 8 wr 0.005500 , vr 0.267262
+future 9 wr 0.005616 , vr 0.264484
+future 10 wr 0.005736 , vr 0.261706
+future 11 wr 0.005860 , vr 0.258928
+future 12 wr 0.005988 , vr 0.256150
+future 13 wr 0.006120 , vr 0.253373
+future 14 wr 0.006256 , vr 0.250596
+future 15 wr 0.006397 , vr 0.247818
+计算速度0.250771   0.0915009
+真实速度0.0315542   0.0991591
+handleFutureTraMsg
+ curTime : 55
+ xr : 1.78016 yr : 0.869719 thetar: 0.858752
+state -0.242501 0.162313 1.287728
+robot's locatoion 1.642018 -0.015328 -0.428976
+future 0 wr -0.003344 , vr 0.320547
+future 1 wr -0.003498 , vr 0.313401
+future 2 wr -0.003663 , vr 0.306255
+future 3 wr -0.003840 , vr 0.299109
+future 4 wr -0.004031 , vr 0.291964
+future 5 wr -0.004235 , vr 0.284818
+future 6 wr -0.004456 , vr 0.277673
+future 7 wr -0.004695 , vr 0.270528
+future 8 wr -0.004953 , vr 0.263383
+future 9 wr -0.005233 , vr 0.256238
+future 10 wr -0.005537 , vr 0.249093
+future 11 wr -0.005869 , vr 0.241948
+future 12 wr -0.006232 , vr 0.234803
+future 13 wr -0.006629 , vr 0.227659
+future 14 wr -0.007066 , vr 0.220515
+future 15 wr -0.007547 , vr 0.213371
+计算速度0.345858   0.0768595
+真实速度0.160927   0.104932
+handleFutureTraMsg
+ curTime : 56
+ xr : 1.81159 yr : 0.904023 thetar: 0.882828
+state -0.210396 0.214110 1.277630
+robot's locatoion 1.654211 -0.020690 -0.394802
+future 0 wr -0.041879 , vr 0.325331
+future 1 wr -0.043328 , vr 0.319841
+future 2 wr -0.044851 , vr 0.314364
+future 3 wr -0.046452 , vr 0.308900
+future 4 wr -0.048136 , vr 0.303449
+future 5 wr -0.049908 , vr 0.298013
+future 6 wr -0.051775 , vr 0.292591
+future 7 wr -0.053742 , vr 0.287186
+future 8 wr -0.055817 , vr 0.281798
+future 9 wr -0.058007 , vr 0.276428
+future 10 wr -0.060319 , vr 0.271077
+future 11 wr -0.062764 , vr 0.265745
+future 12 wr -0.065349 , vr 0.260436
+future 13 wr -0.068085 , vr 0.255149
+future 14 wr -0.070984 , vr 0.249886
+future 15 wr -0.074055 , vr 0.244649
+计算速度0.38682   0.0238885
+真实速度0.236657   0.0981404
+handleFutureTraMsg
+ curTime : 57
+ xr : 1.85159 yr : 0.942221 thetar: 0.86061
+state -0.158928 0.271973 1.213997
+robot's locatoion 1.664317 -0.024691 -0.353388
+future 0 wr 0.101733 , vr 0.292668
+future 1 wr 0.099318 , vr 0.296204
+future 2 wr 0.096950 , vr 0.299800
+future 3 wr 0.094629 , vr 0.303454
+future 4 wr 0.092357 , vr 0.307164
+future 5 wr 0.090136 , vr 0.310926
+future 6 wr 0.087964 , vr 0.314741
+future 7 wr 0.085843 , vr 0.318605
+future 8 wr 0.083773 , vr 0.322517
+future 9 wr 0.081754 , vr 0.326475
+future 10 wr 0.079786 , vr 0.330478
+future 11 wr 0.077868 , vr 0.334524
+future 12 wr 0.075999 , vr 0.338611
+future 13 wr 0.074180 , vr 0.342738
+future 14 wr 0.072409 , vr 0.346904
+future 15 wr 0.070686 , vr 0.351107
+计算速度0.438138   0.150527
+真实速度0.236657   0.0835382
+handleFutureTraMsg
+ curTime : 58
+ xr : 1.88463 yr : 0.969691 thetar: 0.821718
+state -0.102470 0.314543 1.130425
+robot's locatoion 1.674013 -0.028025 -0.308707
+future 0 wr -0.009948 , vr 0.287669
+future 1 wr -0.009763 , vr 0.290382
+future 2 wr -0.009583 , vr 0.293096
+future 3 wr -0.009408 , vr 0.295810
+future 4 wr -0.009237 , vr 0.298525
+future 5 wr -0.009072 , vr 0.301240
+future 6 wr -0.008910 , vr 0.303956
+future 7 wr -0.008753 , vr 0.306673
+future 8 wr -0.008600 , vr 0.309389
+future 9 wr -0.008451 , vr 0.312107
+future 10 wr -0.008306 , vr 0.314825
+future 11 wr -0.008164 , vr 0.317543
+future 12 wr -0.008026 , vr 0.320261
+future 13 wr -0.007891 , vr 0.322980
+future 14 wr -0.007760 , vr 0.325700
+future 15 wr -0.007632 , vr 0.328420
+计算速度0.460946   0.0566273
+真实速度0.333686   0.0718225
+handleFutureTraMsg
+ curTime : 59
+ xr : 1.91998 yr : 0.996457 thetar: 0.767772
+state -0.040614 0.353498 1.030851
+robot's locatoion 1.685234 -0.031356 -0.263079
+future 0 wr -0.356965 , vr 0.298490
+future 1 wr -0.360599 , vr 0.296982
+future 2 wr -0.362353 , vr 0.296263
+future 3 wr -0.362172 , vr 0.296337
+future 4 wr -0.360061 , vr 0.297204
+future 5 wr -0.356088 , vr 0.298858
+future 6 wr -0.350374 , vr 0.301285
+future 7 wr -0.343089 , vr 0.304466
+future 8 wr -0.334437 , vr 0.308380
+future 9 wr -0.324642 , vr 0.312997
+future 10 wr -0.313939 , vr 0.318288
+future 11 wr -0.302557 , vr 0.324219
+future 12 wr -0.290716 , vr 0.330757
+future 13 wr -0.278612 , vr 0.337865
+future 14 wr -0.266421 , vr 0.345508
+future 15 wr -0.254291 , vr 0.353653
+计算速度0.314336   -0.263614
+真实速度0.323431   0.0852361
+handleFutureTraMsg
+ curTime : 60
+ xr : 1.95623 yr : 1.02255 thetar: 0.660756
+state 0.034450 0.387582 0.872150
+robot's locatoion 1.694349 -0.033596 -0.211394
+future 0 wr -0.069318 , vr 0.290724
+future 1 wr -0.073822 , vr 0.281715
+future 2 wr -0.078762 , vr 0.272737
+future 3 wr -0.084193 , vr 0.263795
+future 4 wr -0.090178 , vr 0.254890
+future 5 wr -0.096792 , vr 0.246028
+future 6 wr -0.104120 , vr 0.237213
+future 7 wr -0.112260 , vr 0.228450
+future 8 wr -0.121329 , vr 0.219746
+future 9 wr -0.131460 , vr 0.211109
+future 10 wr -0.142811 , vr 0.202546
+future 11 wr -0.155562 , vr 0.194067
+future 12 wr -0.169924 , vr 0.185685
+future 13 wr -0.186140 , vr 0.177412
+future 14 wr -0.204489 , vr 0.169266
+future 15 wr -0.225287 , vr 0.161264
+计算速度0.392925   -0.0258201
+真实速度0.323431   0.0696151
+handleFutureTraMsg
+ curTime : 61
+ xr : 1.99394 yr : 1.04933 thetar: 0.57171
+state 0.122159 0.416503 0.727619
+robot's locatoion 1.699894 -0.034660 -0.155909
+future 0 wr -0.058821 , vr 0.298678
+future 1 wr -0.062599 , vr 0.289526
+future 2 wr -0.066741 , vr 0.280397
+future 3 wr -0.071296 , vr 0.271293
+future 4 wr -0.076316 , vr 0.262218
+future 5 wr -0.081866 , vr 0.253174
+future 6 wr -0.088019 , vr 0.244164
+future 7 wr -0.094861 , vr 0.235194
+future 8 wr -0.102495 , vr 0.226266
+future 9 wr -0.111038 , vr 0.217387
+future 10 wr -0.120633 , vr 0.208563
+future 11 wr -0.131445 , vr 0.199801
+future 12 wr -0.143673 , vr 0.191110
+future 13 wr -0.157550 , vr 0.182499
+future 14 wr -0.173355 , vr 0.173981
+future 15 wr -0.191415 , vr 0.165570
+计算速度0.376222   -0.0140572
+真实速度0.33763   0.0366753
+handleFutureTraMsg
+ curTime : 62
+ xr : 2.03352 yr : 1.07107 thetar: 0.493445
+state 0.215434 0.434523 0.597834
+robot's locatoion 1.701043 -0.034832 -0.104389
+future 0 wr -0.060299 , vr 0.283469
+future 1 wr -0.064803 , vr 0.273442
+future 2 wr -0.069818 , vr 0.263437
+future 3 wr -0.075424 , vr 0.253459
+future 4 wr -0.081712 , vr 0.243511
+future 5 wr -0.088796 , vr 0.233596
+future 6 wr -0.096811 , vr 0.223718
+future 7 wr -0.105918 , vr 0.213883
+future 8 wr -0.116318 , vr 0.204098
+future 9 wr -0.128254 , vr 0.194369
+future 10 wr -0.142026 , vr 0.184705
+future 11 wr -0.158003 , vr 0.175117
+future 12 wr -0.176645 , vr 0.165620
+future 13 wr -0.198522 , vr 0.156228
+future 14 wr -0.224344 , vr 0.146962
+future 15 wr -0.254992 , vr 0.137848
+计算速度0.36451   -0.023532
+真实速度0.362085   0.00560317
+handleFutureTraMsg
+ curTime : 63
+ xr : 2.07296 yr : 1.09146 thetar: 0.415909
+state 0.314859 0.444160 0.468281
+robot's locatoion 1.698640 -0.034651 -0.052372
+future 0 wr 0.021835 , vr 0.288159
+future 1 wr 0.024105 , vr 0.274258
+future 2 wr 0.026747 , vr 0.260359
+future 3 wr 0.029847 , vr 0.246465
+future 4 wr 0.033519 , vr 0.232575
+future 5 wr 0.037910 , vr 0.218691
+future 6 wr 0.043222 , vr 0.204813
+future 7 wr 0.049729 , vr 0.190943
+future 8 wr 0.057819 , vr 0.177082
+future 9 wr 0.068045 , vr 0.163234
+future 10 wr 0.081229 , vr 0.149401
+future 11 wr 0.098622 , vr 0.135588
+future 12 wr 0.122208 , vr 0.121803
+future 13 wr 0.155283 , vr 0.108056
+future 14 wr 0.203622 , vr 0.094362
+future 15 wr 0.278057 , vr 0.080750
+计算速度0.368054   0.104893
+真实速度0.371551   -0.0198658
+handleFutureTraMsg
+ curTime : 64
+ xr : 2.11357 yr : 1.10936 thetar: 0.374328
+state 0.414982 0.444630 0.375973
+robot's locatoion 1.696703 -0.034582 -0.001645
+future 0 wr 0.041975 , vr 0.292216
+future 1 wr 0.047285 , vr 0.275320
+future 2 wr 0.053664 , vr 0.258437
+future 3 wr 0.061420 , vr 0.241570
+future 4 wr 0.070976 , vr 0.224721
+future 5 wr 0.082929 , vr 0.207895
+future 6 wr 0.098148 , vr 0.191099
+future 7 wr 0.117923 , vr 0.174340
+future 8 wr 0.144247 , vr 0.157632
+future 9 wr 0.180306 , vr 0.140991
+future 10 wr 0.231439 , vr 0.124445
+future 11 wr 0.307073 , vr 0.108038
+future 12 wr 0.424911 , vr 0.091844
+future 13 wr 0.620571 , vr 0.075998
+future 14 wr 0.970395 , vr 0.060775
+future 15 wr 1.637458 , vr 0.046786
+计算速度0.33695   0.196862
+真实速度0.35814   -0.0108668
+handleFutureTraMsg
+ curTime : 65
+ xr : 2.15263 yr : 1.12315 thetar: 0.316425
+state 0.514551 0.431946 0.263331
+robot's locatoion 1.698877 -0.034511 0.053094
+future 0 wr -0.039900 , vr 0.293112
+future 1 wr -0.045267 , vr 0.275190
+future 2 wr -0.051789 , vr 0.257279
+future 3 wr -0.059822 , vr 0.239382
+future 4 wr -0.069869 , vr 0.221503
+future 5 wr -0.082659 , vr 0.203647
+future 6 wr -0.099282 , vr 0.185818
+future 7 wr -0.121418 , vr 0.168028
+future 8 wr -0.151773 , vr 0.150289
+future 9 wr -0.194905 , vr 0.132621
+future 10 wr -0.258948 , vr 0.115058
+future 11 wr -0.359456 , vr 0.097656
+future 12 wr -0.528732 , vr 0.080520
+future 13 wr -0.840479 , vr 0.063865
+future 14 wr -1.476202 , vr 0.048189
+future 15 wr -2.823506 , vr 0.034844
+计算速度0.289729   0.0628596
+真实速度0.37944   0.0164699
+handleFutureTraMsg
+ curTime : 66
+ xr : 2.19993 yr : 1.12987 thetar: 0.255286
+state 0.612970 0.406444 0.151654
+robot's locatoion 1.704703 -0.034049 0.103632
+future 0 wr 0.179324 , vr 0.264664
+future 1 wr 0.193626 , vr 0.254701
+future 2 wr 0.209376 , vr 0.244934
+future 3 wr 0.226705 , vr 0.235387
+future 4 wr 0.245740 , vr 0.226087
+future 5 wr 0.266589 , vr 0.217066
+future 6 wr 0.289331 , vr 0.208361
+future 7 wr 0.313990 , vr 0.200012
+future 8 wr 0.340506 , vr 0.192066
+future 9 wr 0.368704 , vr 0.184575
+future 10 wr 0.398246 , vr 0.177598
+future 11 wr 0.428589 , vr 0.171196
+future 12 wr 0.458952 , vr 0.165436
+future 13 wr 0.488297 , vr 0.160388
+future 14 wr 0.515358 , vr 0.156120
+future 15 wr 0.538712 , vr 0.152699
+计算速度0.339591   0.439956
+真实速度0.388906   0.040241
+handleFutureTraMsg
+ curTime : 67
+ xr : 2.23645 yr : 1.13737 thetar: 0.339472
+state 0.691025 0.379617 0.190343
+robot's locatoion 1.713503 -0.032931 0.149129
+future 0 wr -0.169579 , vr 0.220403
+future 1 wr -0.156049 , vr 0.229760
+future 2 wr -0.143938 , vr 0.239231
+future 3 wr -0.133076 , vr 0.248803
+future 4 wr -0.123312 , vr 0.258465
+future 5 wr -0.114516 , vr 0.268208
+future 6 wr -0.106574 , vr 0.278022
+future 7 wr -0.099385 , vr 0.287901
+future 8 wr -0.092864 , vr 0.297839
+future 9 wr -0.086934 , vr 0.307828
+future 10 wr -0.081531 , vr 0.317866
+future 11 wr -0.076596 , vr 0.327946
+future 12 wr -0.072079 , vr 0.338066
+future 13 wr -0.067936 , vr 0.348222
+future 14 wr -0.064128 , vr 0.358410
+future 15 wr -0.060622 , vr 0.368629
+计算速度0.201583   0.0984259
+真实速度0.407049   0.0516171
+handleFutureTraMsg
+ curTime : 68
+ xr : 2.264 yr : 1.14348 thetar: 0.398246
+state 0.752755 0.349668 0.205785
+robot's locatoion 1.725920 -0.030787 0.192461
+future 0 wr 0.601099 , vr 0.178372
+future 1 wr 0.562873 , vr 0.184329
+future 2 wr 0.521624 , vr 0.191479
+future 3 wr 0.479596 , vr 0.199692
+future 4 wr 0.438482 , vr 0.208845
+future 5 wr 0.399424 , vr 0.218818
+future 6 wr 0.363091 , vr 0.229505
+future 7 wr 0.329798 , vr 0.240811
+future 8 wr 0.299607 , vr 0.252652
+future 9 wr 0.272424 , vr 0.264958
+future 10 wr 0.248058 , vr 0.277666
+future 11 wr 0.226276 , vr 0.290724
+future 12 wr 0.206827 , vr 0.304085
+future 13 wr 0.189464 , vr 0.317714
+future 14 wr 0.173955 , vr 0.331575
+future 15 wr 0.160084 , vr 0.345642
+计算速度0.396013   0.743588
+真实速度0.287143   0.0821798
+handleFutureTraMsg
+ curTime : 69
+ xr : 2.29861 yr : 1.15068 thetar: 0.47313
+state 0.807695 0.324069 0.248022
+robot's locatoion 1.739876 -0.027839 0.225108
+future 0 wr 0.783659 , vr 0.173815
+future 1 wr 0.723602 , vr 0.180884
+future 2 wr 0.656619 , vr 0.189886
+future 3 wr 0.588583 , vr 0.200561
+future 4 wr 0.523532 , vr 0.212656
+future 5 wr 0.463762 , vr 0.225945
+future 6 wr 0.410253 , vr 0.240228
+future 7 wr 0.363131 , vr 0.255339
+future 8 wr 0.322041 , vr 0.271140
+future 9 wr 0.286399 , vr 0.287517
+future 10 wr 0.255549 , vr 0.304377
+future 11 wr 0.228848 , vr 0.321644
+future 12 wr 0.205705 , vr 0.339256
+future 13 wr 0.185596 , vr 0.357162
+future 14 wr 0.168073 , vr 0.375320
+future 15 wr 0.152750 , vr 0.393694
+计算速度0.4664   0.973709
+真实速度0.264267   0.105441
+handleFutureTraMsg
+ curTime : 70
+ xr : 2.32522 yr : 1.15145 thetar: 0.57855
+state 0.848083 0.291882 0.321328
+robot's locatoion 1.757364 -0.023551 0.257222
+future 0 wr 0.824663 , vr 0.145570
+future 1 wr 0.686694 , vr 0.159525
+future 2 wr 0.570451 , vr 0.175026
+future 3 wr 0.475544 , vr 0.191698
+future 4 wr 0.399070 , vr 0.209260
+future 5 wr 0.337621 , vr 0.227508
+future 6 wr 0.288094 , vr 0.246289
+future 7 wr 0.247930 , vr 0.265489
+future 8 wr 0.215109 , vr 0.285025
+future 9 wr 0.188064 , vr 0.304830
+future 10 wr 0.165591 , vr 0.324857
+future 11 wr 0.146763 , vr 0.345067
+future 12 wr 0.130863 , vr 0.365429
+future 13 wr 0.117336 , vr 0.385919
+future 14 wr 0.105746 , vr 0.406517
+future 15 wr 0.095751 , vr 0.427209
+计算速度0.498954   1.0135
+真实速度0.245334   0.135325
+handleFutureTraMsg
+ curTime : 71
+ xr : 2.34537 yr : 1.15808 thetar: 0.61657
+state 0.878513 0.265071 0.327186
+robot's locatoion 1.778781 -0.017560 0.289384
+future 0 wr 0.525113 , vr 0.132936
+future 1 wr 0.399856 , vr 0.152341
+future 2 wr 0.312760 , vr 0.172251
+future 3 wr 0.250396 , vr 0.192510
+future 4 wr 0.204503 , vr 0.213019
+future 5 wr 0.169894 , vr 0.233711
+future 6 wr 0.143225 , vr 0.254542
+future 7 wr 0.122280 , vr 0.275480
+future 8 wr 0.105555 , vr 0.296502
+future 9 wr 0.092001 , vr 0.317593
+future 10 wr 0.080874 , vr 0.338739
+future 11 wr 0.071631 , vr 0.359930
+future 12 wr 0.063874 , vr 0.381159
+future 13 wr 0.057303 , vr 0.402419
+future 14 wr 0.051690 , vr 0.423707
+future 15 wr 0.046858 , vr 0.445018
+计算速度0.412663   0.873461
+真实速度0.243756   0.170302
+handleFutureTraMsg
+ curTime : 72
+ xr : 2.36744 yr : 1.17409 thetar: 0.771116
+state 0.909294 0.242658 0.447015
+robot's locatoion 1.805683 -0.009059 0.324101
+future 0 wr -0.177876 , vr 0.222722
+future 1 wr -0.165276 , vr 0.231055
+future 2 wr -0.153804 , vr 0.239518
+future 3 wr -0.143352 , vr 0.248096
+future 4 wr -0.133821 , vr 0.256779
+future 5 wr -0.125122 , vr 0.265556
+future 6 wr -0.117171 , vr 0.274417
+future 7 wr -0.109895 , vr 0.283356
+future 8 wr -0.103227 , vr 0.292364
+future 9 wr -0.097107 , vr 0.301437
+future 10 wr -0.091481 , vr 0.310567
+future 11 wr -0.086302 , vr 0.319750
+future 12 wr -0.081526 , vr 0.328982
+future 13 wr -0.077116 , vr 0.338259
+future 14 wr -0.073037 , vr 0.347577
+future 15 wr -0.069258 , vr 0.356933
+计算速度0.152632   0.506399
+真实速度0.232712   0.196451
+handleFutureTraMsg
+ curTime : 73
+ xr : 2.38166 yr : 1.19053 thetar: 0.931911
+state 0.928070 0.223578 0.575317
+robot's locatoion 1.834380 0.001075 0.356594
+future 0 wr -0.243778 , vr 0.245791
+future 1 wr -0.235271 , vr 0.250195
+future 2 wr -0.226698 , vr 0.254882
+future 3 wr -0.218136 , vr 0.259836
+future 4 wr -0.209649 , vr 0.265043
+future 5 wr -0.201294 , vr 0.270488
+future 6 wr -0.193115 , vr 0.276156
+future 7 wr -0.185148 , vr 0.282035
+future 8 wr -0.177421 , vr 0.288111
+future 9 wr -0.169953 , vr 0.294373
+future 10 wr -0.162759 , vr 0.300809
+future 11 wr -0.155847 , vr 0.307407
+future 12 wr -0.149221 , vr 0.314157
+future 13 wr -0.142882 , vr 0.321051
+future 14 wr -0.136827 , vr 0.328078
+future 15 wr -0.131050 , vr 0.335231
+计算速度0.120512   0.450683
+真实速度0.229557   0.226334
+handleFutureTraMsg
+ curTime : 74
+ xr : 2.39675 yr : 1.21439 thetar: 1.04697
+state 0.946101 0.209979 0.657980
+robot's locatoion 1.866445 0.013580 0.388993
+future 0 wr -0.188553 , vr 0.228735
+future 1 wr -0.175756 , vr 0.236915
+future 2 wr -0.164019 , vr 0.245246
+future 3 wr -0.153256 , vr 0.253711
+future 4 wr -0.143386 , vr 0.262298
+future 5 wr -0.134330 , vr 0.270995
+future 6 wr -0.126016 , vr 0.279792
+future 7 wr -0.118376 , vr 0.288680
+future 8 wr -0.111348 , vr 0.297651
+future 9 wr -0.104876 , vr 0.306697
+future 10 wr -0.098910 , vr 0.315812
+future 11 wr -0.093402 , vr 0.324990
+future 12 wr -0.088311 , vr 0.334226
+future 13 wr -0.083599 , vr 0.343516
+future 14 wr -0.079233 , vr 0.352854
+future 15 wr -0.075181 , vr 0.362238
+计算速度0.151663   0.50484
+真实速度0.242967   0.256048
+handleFutureTraMsg
+ curTime : 75
+ xr : 2.41155 yr : 1.23896 thetar: 1.09497
+state 0.959058 0.194041 0.671643
+robot's locatoion 1.904420 0.029862 0.423331
+future 0 wr -0.167751 , vr 0.247286
+future 1 wr -0.159877 , vr 0.253302
+future 2 wr -0.152389 , vr 0.259450
+future 3 wr -0.145280 , vr 0.265722
+future 4 wr -0.138541 , vr 0.272108
+future 5 wr -0.132159 , vr 0.278601
+future 6 wr -0.126120 , vr 0.285194
+future 7 wr -0.120409 , vr 0.291879
+future 8 wr -0.115010 , vr 0.298650
+future 9 wr -0.109909 , vr 0.305502
+future 10 wr -0.105089 , vr 0.312430
+future 11 wr -0.100535 , vr 0.319428
+future 12 wr -0.096232 , vr 0.326492
+future 13 wr -0.092165 , vr 0.333618
+future 14 wr -0.088320 , vr 0.340801
+future 15 wr -0.084685 , vr 0.348039
+计算速度0.160315   0.528534
+真实速度0.242968   0.287629
+handleFutureTraMsg
+ curTime : 76
+ xr : 2.42626 yr : 1.27 thetar: 1.05961
+state 0.971625 0.184758 0.604011
+robot's locatoion 1.943034 0.047975 0.455600
+future 0 wr -0.116217 , vr 0.270695
+future 1 wr -0.113569 , vr 0.273832
+future 2 wr -0.110953 , vr 0.277042
+future 3 wr -0.108372 , vr 0.280321
+future 4 wr -0.105830 , vr 0.283667
+future 5 wr -0.103330 , vr 0.287079
+future 6 wr -0.100874 , vr 0.290552
+future 7 wr -0.098464 , vr 0.294087
+future 8 wr -0.096102 , vr 0.297679
+future 9 wr -0.093789 , vr 0.301328
+future 10 wr -0.091526 , vr 0.305030
+future 11 wr -0.089313 , vr 0.308785
+future 12 wr -0.087152 , vr 0.312590
+future 13 wr -0.085042 , vr 0.316444
+future 14 wr -0.082984 , vr 0.320345
+future 15 wr -0.080977 , vr 0.324290
+计算速度0.173767   0.585954
+真实速度0.24139   0.317853
+handleFutureTraMsg
+ curTime : 77
+ xr : 2.44798 yr : 1.31119 thetar: 1.00467
+state 0.991221 0.180182 0.517034
+robot's locatoion 1.984688 0.069181 0.487631
+future 0 wr -0.058908 , vr 0.292888
+future 1 wr -0.058093 , vr 0.294936
+future 2 wr -0.057287 , vr 0.297004
+future 3 wr -0.056490 , vr 0.299091
+future 4 wr -0.055702 , vr 0.301199
+future 5 wr -0.054924 , vr 0.303325
+future 6 wr -0.054155 , vr 0.305470
+future 7 wr -0.053396 , vr 0.307634
+future 8 wr -0.052647 , vr 0.309815
+future 9 wr -0.051908 , vr 0.312014
+future 10 wr -0.051178 , vr 0.314230
+future 11 wr -0.050458 , vr 0.316463
+future 12 wr -0.049749 , vr 0.318712
+future 13 wr -0.049049 , vr 0.320978
+future 14 wr -0.048359 , vr 0.323259
+future 15 wr -0.047679 , vr 0.325555
+计算速度0.176558   0.662577
+真实速度0.227979   0.345868
+handleFutureTraMsg
+ curTime : 78
+ xr : 2.47402 yr : 1.35174 thetar: 0.960645
+state 1.011410 0.170678 0.440568
+robot's locatoion 2.029017 0.093568 0.520077
+future 0 wr 0.008888 , vr 0.331580
+future 1 wr 0.008893 , vr 0.331500
+future 2 wr 0.008897 , vr 0.331421
+future 3 wr 0.008901 , vr 0.331342
+future 4 wr 0.008905 , vr 0.331264
+future 5 wr 0.008909 , vr 0.331187
+future 6 wr 0.008914 , vr 0.331110
+future 7 wr 0.008918 , vr 0.331033
+future 8 wr 0.008922 , vr 0.330957
+future 9 wr 0.008926 , vr 0.330882
+future 10 wr 0.008930 , vr 0.330807
+future 11 wr 0.008934 , vr 0.330733
+future 12 wr 0.008938 , vr 0.330659
+future 13 wr 0.008942 , vr 0.330586
+future 14 wr 0.008946 , vr 0.330513
+future 15 wr 0.008950 , vr 0.330441
+计算速度0.198943   0.763529
+真实速度0.246123   0.373884
+handleFutureTraMsg
+ curTime : 79
+ xr : 2.49613 yr : 1.38502 thetar: 0.924879
+state 1.018425 0.152969 0.370286
+robot's locatoion 2.079525 0.123600 0.554593
+future 0 wr 0.007867 , vr 0.364020
+future 1 wr 0.008029 , vr 0.360328
+future 2 wr 0.008196 , vr 0.356635
+future 3 wr 0.008368 , vr 0.352943
+future 4 wr 0.008546 , vr 0.349252
+future 5 wr 0.008730 , vr 0.345561
+future 6 wr 0.008919 , vr 0.341871
+future 7 wr 0.009115 , vr 0.338181
+future 8 wr 0.009317 , vr 0.334492
+future 9 wr 0.009526 , vr 0.330803
+future 10 wr 0.009742 , vr 0.327115
+future 11 wr 0.009965 , vr 0.323428
+future 12 wr 0.010197 , vr 0.319741
+future 13 wr 0.010436 , vr 0.316055
+future 14 wr 0.010684 , vr 0.312369
+future 15 wr 0.010940 , vr 0.308685
+计算速度0.180596   0.805354
+真实速度0.240601   0.405296
+handleFutureTraMsg
+ curTime : 80
+ xr : 2.52217 yr : 1.41448 thetar: 0.866928
+state 1.024472 0.130837 0.280126
+robot's locatoion 2.129113 0.155378 0.586802
+future 0 wr -0.246197 , vr 0.328821
+future 1 wr -0.249572 , vr 0.326590
+future 2 wr -0.252370 , vr 0.324775
+future 3 wr -0.254549 , vr 0.323382
+future 4 wr -0.256076 , vr 0.322416
+future 5 wr -0.256926 , vr 0.321882
+future 6 wr -0.257086 , vr 0.321782
+future 7 wr -0.256553 , vr 0.322116
+future 8 wr -0.255336 , vr 0.322883
+future 9 wr -0.253454 , vr 0.324079
+future 10 wr -0.250936 , vr 0.325701
+future 11 wr -0.247822 , vr 0.327741
+future 12 wr -0.244156 , vr 0.330192
+future 13 wr -0.239991 , vr 0.333045
+future 14 wr -0.235382 , vr 0.336290
+future 15 wr -0.230388 , vr 0.339915
+计算速度0.0626378   0.574928
+真实速度0.221668   0.428727
+handleFutureTraMsg
+ curTime : 81
+ xr : 2.55001 yr : 1.44175 thetar: 0.779303
+state 1.026134 0.104834 0.160564
+robot's locatoion 2.180924 0.190959 0.618739
+future 0 wr -0.213698 , vr 0.300034
+future 1 wr -0.229063 , vr 0.289797
+future 2 wr -0.245601 , vr 0.279870
+future 3 wr -0.263322 , vr 0.270289
+future 4 wr -0.282203 , vr 0.261090
+future 5 wr -0.302170 , vr 0.252317
+future 6 wr -0.323083 , vr 0.244014
+future 7 wr -0.344721 , vr 0.236232
+future 8 wr -0.366764 , vr 0.229023
+future 9 wr -0.388782 , vr 0.222443
+future 10 wr -0.410230 , vr 0.216550
+future 11 wr -0.430457 , vr 0.211401
+future 12 wr -0.448733 , vr 0.207051
+future 13 wr -0.464291 , vr 0.203552
+future 14 wr -0.476400 , vr 0.200949
+future 15 wr -0.484433 , vr 0.199276
+计算速度0.0527008   0.558828
+真实速度0.212991   0.45946
+handleFutureTraMsg
+ curTime : 82
+ xr : 2.58409 yr : 1.48064 thetar: 0.705308
+state 1.032248 0.080230 0.051875
+robot's locatoion 2.238793 0.233614 0.653433
+future 0 wr -0.195121 , vr 0.279733
+future 1 wr -0.212625 , vr 0.267972
+future 2 wr -0.232144 , vr 0.256458
+future 3 wr -0.253894 , vr 0.245228
+future 4 wr -0.278081 , vr 0.234320
+future 5 wr -0.304884 , vr 0.223784
+future 6 wr -0.334422 , vr 0.213672
+future 7 wr -0.366707 , vr 0.204050
+future 8 wr -0.401581 , vr 0.194989
+future 9 wr -0.438639 , vr 0.186570
+future 10 wr -0.477136 , vr 0.178885
+future 11 wr -0.515905 , vr 0.172033
+future 12 wr -0.553318 , vr 0.166115
+future 13 wr -0.587316 , vr 0.161235
+future 14 wr -0.615582 , vr 0.157490
+future 15 wr -0.635834 , vr 0.154962
+计算速度0.0325495   0.567696
+真实速度0.20668   0.491721
+handleFutureTraMsg
+ curTime : 83
+ xr : 2.61324 yr : 1.49939 thetar: 0.631619
+state 1.020372 0.043291 -0.054555
+robot's locatoion 2.294741 0.277832 0.686174
+future 0 wr -0.193833 , vr 0.260840
+future 1 wr -0.207924 , vr 0.251846
+future 2 wr -0.223199 , vr 0.243076
+future 3 wr -0.239715 , vr 0.234552
+future 4 wr -0.257507 , vr 0.226305
+future 5 wr -0.276576 , vr 0.218364
+future 6 wr -0.296881 , vr 0.210764
+future 7 wr -0.318317 , vr 0.203544
+future 8 wr -0.340695 , vr 0.196745
+future 9 wr -0.363731 , vr 0.190413
+future 10 wr -0.387018 , vr 0.184596
+future 11 wr -0.410020 , vr 0.179343
+future 12 wr -0.432074 , vr 0.174706
+future 13 wr -0.452408 , vr 0.170735
+future 14 wr -0.470181 , vr 0.167477
+future 15 wr -0.484555 , vr 0.164974
+计算速度0.0161825   0.594023
+真实速度0.222457   0.522283
+handleFutureTraMsg
+ curTime : 84
+ xr : 2.64494 yr : 1.521 thetar: 0.564114
+state 1.006184 0.007878 -0.153169
+robot's locatoion 2.351996 0.326143 0.717283
+future 0 wr -0.054729 , vr 0.265937
+future 1 wr -0.057332 , vr 0.259832
+future 2 wr -0.060116 , vr 0.253744
+future 3 wr -0.063098 , vr 0.247674
+future 4 wr -0.066297 , vr 0.241625
+future 5 wr -0.069733 , vr 0.235597
+future 6 wr -0.073428 , vr 0.229593
+future 7 wr -0.077407 , vr 0.223614
+future 8 wr -0.081698 , vr 0.217662
+future 9 wr -0.086332 , vr 0.211741
+future 10 wr -0.091342 , vr 0.205851
+future 11 wr -0.096768 , vr 0.199996
+future 12 wr -0.102652 , vr 0.194180
+future 13 wr -0.109041 , vr 0.188406
+future 14 wr -0.115987 , vr 0.182677
+future 15 wr -0.123549 , vr 0.176999
+计算速度0.0280456   0.775681
+真实速度0.211413   0.548431
+handleFutureTraMsg
+ curTime : 85
+ xr : 2.67542 yr : 1.54273 thetar: 0.517311
+state 0.985489 -0.025166 -0.228986
+robot's locatoion 2.410029 0.378189 0.746297
+future 0 wr 0.067069 , vr 0.288151
+future 1 wr 0.071793 , vr 0.278510
+future 2 wr 0.077018 , vr 0.268898
+future 3 wr 0.082813 , vr 0.259318
+future 4 wr 0.089262 , vr 0.249775
+future 5 wr 0.096462 , vr 0.240273
+future 6 wr 0.104528 , vr 0.230816
+future 7 wr 0.113597 , vr 0.221411
+future 8 wr 0.123831 , vr 0.212065
+future 9 wr 0.135424 , vr 0.202785
+future 10 wr 0.148607 , vr 0.193581
+future 11 wr 0.163659 , vr 0.184464
+future 12 wr 0.180910 , vr 0.175449
+future 13 wr 0.200756 , vr 0.166551
+future 14 wr 0.223667 , vr 0.157791
+future 15 wr 0.250192 , vr 0.149192
+计算速度0.0297457   0.955791
+真实速度0.183803   0.577126
+handleFutureTraMsg
+ curTime : 86
+ xr : 2.71285 yr : 1.5591 thetar: 0.434835
+state 0.955609 -0.068934 -0.342204
+robot's locatoion 2.473990 0.439113 0.777039
+future 0 wr 0.188278 , vr 0.281256
+future 1 wr 0.204421 , vr 0.269922
+future 2 wr 0.222335 , vr 0.258819
+future 3 wr 0.242200 , vr 0.247978
+future 4 wr 0.264189 , vr 0.237435
+future 5 wr 0.288450 , vr 0.227230
+future 6 wr 0.315091 , vr 0.217412
+future 7 wr 0.344135 , vr 0.208035
+future 8 wr 0.375481 , vr 0.199162
+future 9 wr 0.408843 , vr 0.190863
+future 10 wr 0.443682 , vr 0.183217
+future 11 wr 0.479141 , vr 0.176307
+future 12 wr 0.513999 , vr 0.170224
+future 13 wr 0.546670 , vr 0.165059
+future 14 wr 0.575293 , vr 0.160900
+future 15 wr 0.597909 , vr 0.157828
+计算速度0.0533663   1.15811
+真实速度0.180648   0.607689
+handleFutureTraMsg
+ curTime : 87
+ xr : 2.75411 yr : 1.57181 thetar: 0.36293
+state 0.924444 -0.116375 -0.442933
+robot's locatoion 2.534991 0.500735 0.805863
+future 0 wr 0.120857 , vr 0.245961
+future 1 wr 0.124800 , vr 0.242044
+future 2 wr 0.128856 , vr 0.238204
+future 3 wr 0.133021 , vr 0.234446
+future 4 wr 0.137290 , vr 0.230771
+future 5 wr 0.141658 , vr 0.227186
+future 6 wr 0.146115 , vr 0.223694
+future 7 wr 0.150653 , vr 0.220299
+future 8 wr 0.155260 , vr 0.217006
+future 9 wr 0.159921 , vr 0.213820
+future 10 wr 0.164620 , vr 0.210746
+future 11 wr 0.169340 , vr 0.207789
+future 12 wr 0.174058 , vr 0.204953
+future 13 wr 0.178752 , vr 0.202244
+future 14 wr 0.183396 , vr 0.199667
+future 15 wr 0.187962 , vr 0.197227
+计算速度0.0154845   1.03068
+真实速度0.187748   0.63129
+handleFutureTraMsg
+ curTime : 88
+ xr : 2.7883 yr : 1.5838 thetar: 0.403074
+state 0.880469 -0.154900 -0.426940
+robot's locatoion 2.596349 0.566197 0.830014
+future 0 wr -0.241232 , vr 0.201763
+future 1 wr -0.221296 , vr 0.210656
+future 2 wr -0.203342 , vr 0.219759
+future 3 wr -0.187183 , vr 0.229048
+future 4 wr -0.172639 , vr 0.238501
+future 5 wr -0.159539 , vr 0.248100
+future 6 wr -0.147728 , vr 0.257827
+future 7 wr -0.137063 , vr 0.267670
+future 8 wr -0.127418 , vr 0.277616
+future 9 wr -0.118681 , vr 0.287653
+future 10 wr -0.110751 , vr 0.297774
+future 11 wr -0.103539 , vr 0.307969
+future 12 wr -0.096969 , vr 0.318232
+future 13 wr -0.090971 , vr 0.328556
+future 14 wr -0.085484 , vr 0.338935
+future 15 wr -0.080456 , vr 0.349365
+计算速度-0.155494   0.708814
+真实速度0.156194   0.650307
+handleFutureTraMsg
+ curTime : 89
+ xr : 2.81559 yr : 1.60204 thetar: 0.491945
+state 0.822277 -0.175751 -0.353061
+robot's locatoion 2.661944 0.639043 0.845006
+future 0 wr 0.447357 , vr 0.193309
+future 1 wr 0.397663 , vr 0.205032
+future 2 wr 0.353642 , vr 0.217419
+future 3 wr 0.315018 , vr 0.230362
+future 4 wr 0.281308 , vr 0.243774
+future 5 wr 0.251959 , vr 0.257581
+future 6 wr 0.226416 , vr 0.271722
+future 7 wr 0.204161 , vr 0.286149
+future 8 wr 0.184733 , vr 0.300820
+future 9 wr 0.167728 , vr 0.315701
+future 10 wr 0.152800 , vr 0.330764
+future 11 wr 0.139651 , vr 0.345984
+future 12 wr 0.128032 , vr 0.361343
+future 13 wr 0.117729 , vr 0.376823
+future 14 wr 0.108562 , vr 0.392410
+future 15 wr 0.100379 , vr 0.408091
+计算速度0.0389941   1.20433
+真实速度0.0883518   0.654722
+handleFutureTraMsg
+ curTime : 90
+ xr : 2.84746 yr : 1.61917 thetar: 0.634162
+state 0.765007 -0.192238 -0.215755
+robot's locatoion 2.723968 0.709334 0.849917
+future 0 wr 0.364843 , vr 0.189815
+future 1 wr 0.315518 , vr 0.204114
+future 2 wr 0.274511 , vr 0.218829
+future 3 wr 0.240311 , vr 0.233883
+future 4 wr 0.211655 , vr 0.249213
+future 5 wr 0.187511 , vr 0.264772
+future 6 wr 0.167046 , vr 0.280522
+future 7 wr 0.149596 , vr 0.296432
+future 8 wr 0.134627 , vr 0.312478
+future 9 wr 0.121711 , vr 0.328640
+future 10 wr 0.110504 , vr 0.344902
+future 11 wr 0.100729 , vr 0.361249
+future 12 wr 0.092159 , vr 0.377672
+future 13 wr 0.084610 , vr 0.394161
+future 14 wr 0.077930 , vr 0.410707
+future 15 wr 0.071994 , vr 0.427304
+计算速度-0.0253131   1.17323
+真实速度0   0.683926
+handleFutureTraMsg
+ curTime : 91
+ xr : 2.88975 yr : 1.63159 thetar: 0.800147
+state 0.707314 -0.216100 -0.050113
+robot's locatoion 2.786704 0.780810 0.850260
+future 0 wr 0.022924 , vr 0.209560
+future 1 wr 0.020172 , vr 0.223397
+future 2 wr 0.017887 , vr 0.237236
+future 3 wr 0.015970 , vr 0.251077
+future 4 wr 0.014344 , vr 0.264919
+future 5 wr 0.012955 , vr 0.278762
+future 6 wr 0.011758 , vr 0.292606
+future 7 wr 0.010720 , vr 0.306451
+future 8 wr 0.009813 , vr 0.320296
+future 9 wr 0.009017 , vr 0.334143
+future 10 wr 0.008313 , vr 0.347989
+future 11 wr 0.007689 , vr 0.361837
+future 12 wr 0.007133 , vr 0.375684
+future 13 wr 0.006635 , vr 0.389532
+future 14 wr 0.006187 , vr 0.403381
+future 15 wr 0.005783 , vr 0.417230
+计算速度-0.119395   0.944201
+真实速度0.00946626   0.681889
+handleFutureTraMsg
+ curTime : 92
+ xr : 2.9117 yr : 1.66231 thetar: 0.926505
+state 0.649939 -0.212588 0.075831
+robot's locatoion 2.849482 0.852298 0.850674
+future 0 wr -0.164782 , vr 0.234193
+future 1 wr -0.151196 , vr 0.244489
+future 2 wr -0.139099 , vr 0.254899
+future 3 wr -0.128299 , vr 0.265410
+future 4 wr -0.118634 , vr 0.276010
+future 5 wr -0.109960 , vr 0.286689
+future 6 wr -0.102155 , vr 0.297440
+future 7 wr -0.095113 , vr 0.308254
+future 8 wr -0.088743 , vr 0.319125
+future 9 wr -0.082967 , vr 0.330048
+future 10 wr -0.077715 , vr 0.341016
+future 11 wr -0.072930 , vr 0.352027
+future 12 wr -0.068558 , vr 0.363077
+future 13 wr -0.064557 , vr 0.374161
+future 14 wr -0.060885 , vr 0.385277
+future 15 wr -0.057510 , vr 0.396422
+计算速度-0.184409   0.78634
+真实速度-0.00946639   0.677814
+handleFutureTraMsg
+ curTime : 93
+ xr : 2.92836 yr : 1.69353 thetar: 1.0478
+state 0.582738 -0.204782 0.196743
+robot's locatoion 2.916619 0.928881 0.851053
+future 0 wr -0.307722 , vr 0.299943
+future 1 wr -0.304719 , vr 0.301417
+future 2 wr -0.300624 , vr 0.303463
+future 3 wr -0.295528 , vr 0.306069
+future 4 wr -0.289535 , vr 0.309220
+future 5 wr -0.282764 , vr 0.312900
+future 6 wr -0.275339 , vr 0.317091
+future 7 wr -0.267385 , vr 0.321773
+future 8 wr -0.259024 , vr 0.326925
+future 9 wr -0.250374 , vr 0.332524
+future 10 wr -0.241542 , vr 0.338549
+future 11 wr -0.232623 , vr 0.344978
+future 12 wr -0.223705 , vr 0.351788
+future 13 wr -0.214858 , vr 0.358957
+future 14 wr -0.206144 , vr 0.366465
+future 15 wr -0.197614 , vr 0.374291
+计算速度-0.207976   0.628747
+真实速度0.0236656   0.684945
+handleFutureTraMsg
+ curTime : 94
+ xr : 2.94776 yr : 1.73136 thetar: 1.12364
+state 0.528601 -0.193103 0.274956
+robot's locatoion 2.978752 0.999650 0.848686
+future 0 wr -0.253397 , vr 0.330907
+future 1 wr -0.255208 , vr 0.329731
+future 2 wr -0.256354 , vr 0.328993
+future 3 wr -0.256817 , vr 0.328697
+future 4 wr -0.256589 , vr 0.328843
+future 5 wr -0.255674 , vr 0.329430
+future 6 wr -0.254087 , vr 0.330458
+future 7 wr -0.251852 , vr 0.331921
+future 8 wr -0.249004 , vr 0.333814
+future 9 wr -0.245585 , vr 0.336129
+future 10 wr -0.241645 , vr 0.338858
+future 11 wr -0.237238 , vr 0.341992
+future 12 wr -0.232420 , vr 0.345518
+future 13 wr -0.227251 , vr 0.349425
+future 14 wr -0.221790 , vr 0.353701
+future 15 wr -0.216095 , vr 0.358332
+计算速度-0.234741   0.618675
+真实速度-0.0599531   0.668985
+handleFutureTraMsg
+ curTime : 95
+ xr : 2.97542 yr : 1.76784 thetar: 1.15332
+state 0.477921 -0.185354 0.313153
+robot's locatoion 3.039765 1.068459 0.840167
+future 0 wr -0.222078 , vr 0.344426
+future 1 wr -0.224318 , vr 0.342702
+future 2 wr -0.226125 , vr 0.341330
+future 3 wr -0.227477 , vr 0.340315
+future 4 wr -0.228356 , vr 0.339659
+future 5 wr -0.228753 , vr 0.339364
+future 6 wr -0.228661 , vr 0.339432
+future 7 wr -0.228083 , vr 0.339862
+future 8 wr -0.227024 , vr 0.340653
+future 9 wr -0.225500 , vr 0.341803
+future 10 wr -0.223528 , vr 0.343308
+future 11 wr -0.221132 , vr 0.345162
+future 12 wr -0.218341 , vr 0.347362
+future 13 wr -0.215185 , vr 0.349899
+future 14 wr -0.211700 , vr 0.352767
+future 15 wr -0.207922 , vr 0.355958
+计算速度-0.200314   0.604049
+真实速度-0.0441759   0.654382
+handleFutureTraMsg
+ curTime : 96
+ xr : 3.00319 yr : 1.81143 thetar: 1.12026
+state 0.424987 -0.169240 0.296375
+robot's locatoion 3.103930 1.138989 0.823885
+future 0 wr -0.106538 , vr 0.366041
+future 1 wr -0.107870 , vr 0.363774
+future 2 wr -0.109175 , vr 0.361594
+future 3 wr -0.110449 , vr 0.359501
+future 4 wr -0.111690 , vr 0.357499
+future 5 wr -0.112894 , vr 0.355587
+future 6 wr -0.114058 , vr 0.353768
+future 7 wr -0.115179 , vr 0.352043
+future 8 wr -0.116253 , vr 0.350413
+future 9 wr -0.117277 , vr 0.348880
+future 10 wr -0.118248 , vr 0.347445
+future 11 wr -0.119162 , vr 0.346109
+future 12 wr -0.120017 , vr 0.344874
+future 13 wr -0.120811 , vr 0.343740
+future 14 wr -0.121539 , vr 0.342708
+future 15 wr -0.122200 , vr 0.341780
+计算速度-0.185265   0.667602
+真实速度-0.0986069   0.619914
+handleFutureTraMsg
+ curTime : 97
+ xr : 3.03348 yr : 1.85301 thetar: 1.01889
+state 0.378484 -0.155632 0.212941
+robot's locatoion 3.164156 1.203003 0.805946
+future 0 wr -0.270512 , vr 0.364584
+future 1 wr -0.276409 , vr 0.360674
+future 2 wr -0.281613 , vr 0.357326
+future 3 wr -0.286029 , vr 0.354557
+future 4 wr -0.289575 , vr 0.352379
+future 5 wr -0.292179 , vr 0.350805
+future 6 wr -0.293789 , vr 0.349843
+future 7 wr -0.294372 , vr 0.349496
+future 8 wr -0.293915 , vr 0.349768
+future 9 wr -0.292427 , vr 0.350657
+future 10 wr -0.289940 , vr 0.352157
+future 11 wr -0.286505 , vr 0.354262
+future 12 wr -0.282190 , vr 0.356960
+future 13 wr -0.277077 , vr 0.360239
+future 14 wr -0.271258 , vr 0.364082
+future 15 wr -0.264832 , vr 0.368473
+计算速度-0.266803   0.502045
+真实速度-0.144361   0.642667
+handleFutureTraMsg
+ curTime : 98
+ xr : 3.06138 yr : 1.8931 thetar: 0.874725
+state 0.328091 -0.141361 0.086409
+robot's locatoion 3.226232 1.266564 0.788315
+future 0 wr -0.146626 , vr 0.362484
+future 1 wr -0.164045 , vr 0.342700
+future 2 wr -0.184546 , vr 0.323104
+future 3 wr -0.208835 , vr 0.303734
+future 4 wr -0.237800 , vr 0.284635
+future 5 wr -0.272560 , vr 0.265867
+future 6 wr -0.314505 , vr 0.247503
+future 7 wr -0.365330 , vr 0.229642
+future 8 wr -0.427010 , vr 0.212411
+future 9 wr -0.501642 , vr 0.195974
+future 10 wr -0.591013 , vr 0.180549
+future 11 wr -0.695636 , vr 0.166419
+future 12 wr -0.812991 , vr 0.153940
+future 13 wr -0.935027 , vr 0.143543
+future 14 wr -1.046114 , vr 0.135708
+future 15 wr -1.124457 , vr 0.130895
+计算速度-0.17593   0.493091
+真实速度-0.0820409   0.632649
+handleFutureTraMsg
+ curTime : 99
+ xr : 3.10244 yr : 1.93422 thetar: 0.745059
+state 0.283900 -0.135129 -0.024122
+robot's locatoion 3.291358 1.330910 0.769182
+future 0 wr -0.154220 , vr 0.368751
+future 1 wr -0.173301 , vr 0.347859
+future 2 wr -0.195898 , vr 0.327181
+future 3 wr -0.222847 , vr 0.306760
+future 4 wr -0.255208 , vr 0.286652
+future 5 wr -0.294320 , vr 0.266927
+future 6 wr -0.341850 , vr 0.247677
+future 7 wr -0.399814 , vr 0.229020
+future 8 wr -0.470507 , vr 0.211115
+future 9 wr -0.556210 , vr 0.194171
+future 10 wr -0.658458 , vr 0.178459
+future 11 wr -0.776505 , vr 0.164335
+future 12 wr -0.904773 , vr 0.152242
+future 13 wr -1.029884 , vr 0.142695
+future 14 wr -1.129916 , vr 0.136232
+future 15 wr -1.180130 , vr 0.133302
+计算速度-0.222189   0.434201
+真实速度-0.130161   0.593766
+handleFutureTraMsg
+ curTime : 100
+ xr : 3.14836 yr : 1.96702 thetar: 0.626133
+state 0.248343 -0.138369 -0.125334
+robot's locatoion 3.350329 1.387094 0.751468
+future 0 wr -0.109385 , vr 0.360999
+future 1 wr -0.122214 , vr 0.341526
+future 2 wr -0.137351 , vr 0.322157
+future 3 wr -0.155358 , vr 0.302912
+future 4 wr -0.176965 , vr 0.283818
+future 5 wr -0.203135 , vr 0.264906
+future 6 wr -0.235141 , vr 0.246218
+future 7 wr -0.274677 , vr 0.227810
+future 8 wr -0.324000 , vr 0.209755
+future 9 wr -0.386080 , vr 0.192152
+future 10 wr -0.464733 , vr 0.175139
+future 11 wr -0.564545 , vr 0.158904
+future 12 wr -0.690212 , vr 0.143712
+future 13 wr -0.844418 , vr 0.129929
+future 14 wr -1.022921 , vr 0.118049
+future 15 wr -1.206473 , vr 0.108699
+计算速度-0.206597   0.466329
+真实速度-0.108862   0.567448
+handleFutureTraMsg
+ curTime : 101
+ xr : 3.19071 yr : 1.99559 thetar: 0.549138
+state 0.211386 -0.141861 -0.184344
+robot's locatoion 3.407331 1.439459 0.733482
+future 0 wr -0.081775 , vr 0.354298
+future 1 wr -0.090325 , vr 0.337111
+future 2 wr -0.100255 , vr 0.319981
+future 3 wr -0.111869 , vr 0.302916
+future 4 wr -0.125556 , vr 0.285930
+future 5 wr -0.141820 , vr 0.269035
+future 6 wr -0.161319 , vr 0.252252
+future 7 wr -0.184924 , vr 0.235603
+future 8 wr -0.213793 , vr 0.219119
+future 9 wr -0.249484 , vr 0.202841
+future 10 wr -0.294100 , vr 0.186823
+future 11 wr -0.350486 , vr 0.171136
+future 12 wr -0.422435 , vr 0.155883
+future 13 wr -0.514844 , vr 0.141202
+future 14 wr -0.633512 , vr 0.127292
+future 15 wr -0.783863 , vr 0.114435
+计算速度-0.202422   0.490193
+真实速度-0.0938738   0.544187
+handleFutureTraMsg
+ curTime : 102
+ xr : 3.23373 yr : 2.02128 thetar: 0.534433
+state 0.177243 -0.147663 -0.180944
+robot's locatoion 3.462223 1.488097 0.715378
+future 0 wr -0.065191 , vr 0.334674
+future 1 wr -0.071770 , vr 0.318966
+future 2 wr -0.079379 , vr 0.303292
+future 3 wr -0.088243 , vr 0.287658
+future 4 wr -0.098645 , vr 0.272069
+future 5 wr -0.110954 , vr 0.256534
+future 6 wr -0.125651 , vr 0.241064
+future 7 wr -0.143376 , vr 0.225672
+future 8 wr -0.164984 , vr 0.210375
+future 9 wr -0.191642 , vr 0.195196
+future 10 wr -0.224955 , vr 0.180164
+future 11 wr -0.267168 , vr 0.165319
+future 12 wr -0.321443 , vr 0.150717
+future 13 wr -0.392257 , vr 0.136436
+future 14 wr -0.485885 , vr 0.122588
+future 15 wr -0.610788 , vr 0.109338
+计算速度-0.218872   0.48008
+真实速度-0.116751   0.515152
+handleFutureTraMsg
+ curTime : 103
+ xr : 3.27508 yr : 2.04477 thetar: 0.508473
+state 0.136935 -0.153086 -0.184422
+robot's locatoion 3.519074 1.536505 0.692895
+future 0 wr -0.019292 , vr 0.315654
+future 1 wr -0.021097 , vr 0.301843
+future 2 wr -0.023168 , vr 0.288036
+future 3 wr -0.025560 , vr 0.274231
+future 4 wr -0.028340 , vr 0.260431
+future 5 wr -0.031600 , vr 0.246634
+future 6 wr -0.035454 , vr 0.232843
+future 7 wr -0.040057 , vr 0.219057
+future 8 wr -0.045614 , vr 0.205279
+future 9 wr -0.052409 , vr 0.191510
+future 10 wr -0.060837 , vr 0.177751
+future 11 wr -0.071461 , vr 0.164006
+future 12 wr -0.085114 , vr 0.150278
+future 13 wr -0.103054 , vr 0.136572
+future 14 wr -0.127265 , vr 0.122897
+future 15 wr -0.161008 , vr 0.109262
+计算速度-0.220556   0.521206
+真实速度-0.138839   0.491721
+handleFutureTraMsg
+ curTime : 104
+ xr : 3.31645 yr : 2.06251 thetar: 0.556622
+state 0.096506 -0.162368 -0.110596
+robot's locatoion 3.573332 1.580453 0.667218
+future 0 wr -0.203896 , vr 0.246708
+future 1 wr -0.202425 , vr 0.247603
+future 2 wr -0.200635 , vr 0.248705
+future 3 wr -0.198544 , vr 0.250011
+future 4 wr -0.196171 , vr 0.251519
+future 5 wr -0.193538 , vr 0.253224
+future 6 wr -0.190667 , vr 0.255123
+future 7 wr -0.187584 , vr 0.257211
+future 8 wr -0.184312 , vr 0.259484
+future 9 wr -0.180876 , vr 0.261937
+future 10 wr -0.177300 , vr 0.264565
+future 11 wr -0.173609 , vr 0.267363
+future 12 wr -0.169825 , vr 0.270325
+future 13 wr -0.165970 , vr 0.273447
+future 14 wr -0.162064 , vr 0.276722
+future 15 wr -0.158127 , vr 0.280146
+计算速度-0.325673   0.341742
+真实速度-0.208258   0.515492
+handleFutureTraMsg
+ curTime : 105
+ xr : 3.34808 yr : 2.0838 thetar: 0.600346
+state 0.049488 -0.162850 -0.040769
+robot's locatoion 3.629678 1.623718 0.641115
+future 0 wr 0.344366 , vr 0.214035
+future 1 wr 0.339449 , vr 0.215580
+future 2 wr 0.333080 , vr 0.217631
+future 3 wr 0.325427 , vr 0.220175
+future 4 wr 0.316680 , vr 0.223195
+future 5 wr 0.307039 , vr 0.226672
+future 6 wr 0.296706 , vr 0.230586
+future 7 wr 0.285874 , vr 0.234913
+future 8 wr 0.274724 , vr 0.239633
+future 9 wr 0.263416 , vr 0.244722
+future 10 wr 0.252093 , vr 0.250158
+future 11 wr 0.240871 , vr 0.255919
+future 12 wr 0.229850 , vr 0.261983
+future 13 wr 0.219105 , vr 0.268330
+future 14 wr 0.208697 , vr 0.274939
+future 15 wr 0.198668 , vr 0.281794
+计算速度-0.0816808   0.806813
+真实速度-0.156982   0.502418
+handleFutureTraMsg
+ curTime : 106
+ xr : 3.37934 yr : 2.09778 thetar: 0.681025
+state -0.001128 -0.169284 0.067150
+robot's locatoion 3.685974 1.664609 0.613876
+future 0 wr 0.406629 , vr 0.203087
+future 1 wr 0.364297 , vr 0.214562
+future 2 wr 0.326561 , vr 0.226621
+future 3 wr 0.293182 , vr 0.239173
+future 4 wr 0.263788 , vr 0.252147
+future 5 wr 0.237957 , vr 0.265480
+future 6 wr 0.215268 , vr 0.279121
+future 7 wr 0.195322 , vr 0.293026
+future 8 wr 0.177760 , vr 0.307160
+future 9 wr 0.162264 , vr 0.321492
+future 10 wr 0.148556 , vr 0.335998
+future 11 wr 0.136396 , vr 0.350656
+future 12 wr 0.125578 , vr 0.365446
+future 13 wr 0.115927 , vr 0.380355
+future 14 wr 0.107290 , vr 0.395368
+future 15 wr 0.099538 , vr 0.410475
+计算速度-0.0378297   0.804902
+真实速度-0.162504   0.506323
+handleFutureTraMsg
+ curTime : 107
+ xr : 3.41164 yr : 2.11565 thetar: 0.822106
+state -0.057898 -0.173641 0.236772
+robot's locatoion 3.750705 1.708905 0.585335
+future 0 wr 0.031745 , vr 0.222217
+future 1 wr 0.028157 , vr 0.235953
+future 2 wr 0.025143 , vr 0.249693
+future 3 wr 0.022588 , vr 0.263437
+future 4 wr 0.020403 , vr 0.277183
+future 5 wr 0.018521 , vr 0.290931
+future 6 wr 0.016887 , vr 0.304682
+future 7 wr 0.015459 , vr 0.318434
+future 8 wr 0.014206 , vr 0.332188
+future 9 wr 0.013099 , vr 0.345943
+future 10 wr 0.012116 , vr 0.359700
+future 11 wr 0.011240 , vr 0.373458
+future 12 wr 0.010455 , vr 0.387216
+future 13 wr 0.009750 , vr 0.400976
+future 14 wr 0.009114 , vr 0.414736
+future 15 wr 0.008538 , vr 0.428497
+计算速度-0.137502   0.560152
+真实速度-0.155404   0.530943
+handleFutureTraMsg
+ curTime : 108
+ xr : 3.43757 yr : 2.13857 thetar: 0.900434
+state -0.113962 -0.170590 0.339972
+robot's locatoion 3.815524 1.750734 0.560462
+future 0 wr 0.039686 , vr 0.209093
+future 1 wr 0.034537 , vr 0.224140
+future 2 wr 0.030327 , vr 0.239192
+future 3 wr 0.026841 , vr 0.254249
+future 4 wr 0.023923 , vr 0.269310
+future 5 wr 0.021456 , vr 0.284374
+future 6 wr 0.019351 , vr 0.299440
+future 7 wr 0.017541 , vr 0.314509
+future 8 wr 0.015974 , vr 0.329580
+future 9 wr 0.014607 , vr 0.344652
+future 10 wr 0.013408 , vr 0.359726
+future 11 wr 0.012351 , vr 0.374801
+future 12 wr 0.011415 , vr 0.389878
+future 13 wr 0.010581 , vr 0.404955
+future 14 wr 0.009835 , vr 0.420034
+future 15 wr 0.009165 , vr 0.435113
+计算速度-0.113271   0.556469
+真实速度-0.162504   0.5576
+handleFutureTraMsg
+ curTime : 109
+ xr : 3.46275 yr : 2.16321 thetar: 1.02565
+state -0.166991 -0.165318 0.482745
+robot's locatoion 3.881963 1.791676 0.542902
+future 0 wr -0.293890 , vr 0.281792
+future 1 wr -0.284054 , vr 0.286630
+future 2 wr -0.273816 , vr 0.291939
+future 3 wr -0.263329 , vr 0.297695
+future 4 wr -0.252731 , vr 0.303873
+future 5 wr -0.242140 , vr 0.310448
+future 6 wr -0.231657 , vr 0.317394
+future 7 wr -0.221366 , vr 0.324688
+future 8 wr -0.211332 , vr 0.332307
+future 9 wr -0.201605 , vr 0.340229
+future 10 wr -0.192222 , vr 0.348434
+future 11 wr -0.183209 , vr 0.356901
+future 12 wr -0.174581 , vr 0.365614
+future 13 wr -0.166347 , vr 0.374554
+future 14 wr -0.158506 , vr 0.383706
+future 15 wr -0.151056 , vr 0.393054
+计算速度-0.176501   0.262855
+真实速度-0.10334   0.552337
+handleFutureTraMsg
+ curTime : 110
+ xr : 3.48052 yr : 2.1882 thetar: 1.11096
+state -0.230418 -0.156391 0.585672
+robot's locatoion 3.952468 1.833429 0.525283
+future 0 wr -0.296331 , vr 0.310006
+future 1 wr -0.295684 , vr 0.310345
+future 2 wr -0.293991 , vr 0.311238
+future 3 wr -0.291286 , vr 0.312679
+future 4 wr -0.287626 , vr 0.314662
+future 5 wr -0.283084 , vr 0.317177
+future 6 wr -0.277746 , vr 0.320210
+future 7 wr -0.271709 , vr 0.323748
+future 8 wr -0.265076 , vr 0.327774
+future 9 wr -0.257951 , vr 0.332269
+future 10 wr -0.250438 , vr 0.337217
+future 11 wr -0.242636 , vr 0.342596
+future 12 wr -0.234637 , vr 0.348387
+future 13 wr -0.226525 , vr 0.354569
+future 14 wr -0.218377 , vr 0.361123
+future 15 wr -0.210259 , vr 0.368029
+计算速度-0.165868   0.183133
+真实速度-0.104918   0.540451
+handleFutureTraMsg
+ curTime : 111
+ xr : 3.50018 yr : 2.22059 thetar: 1.1246
+state -0.278726 -0.142164 0.615655
+robot's locatoion 4.015384 1.869262 0.508942
+future 0 wr -0.225530 , vr 0.328869
+future 1 wr -0.228183 , vr 0.326952
+future 2 wr -0.230391 , vr 0.325382
+future 3 wr -0.232124 , vr 0.324165
+future 4 wr -0.233362 , vr 0.323304
+future 5 wr -0.234088 , vr 0.322802
+future 6 wr -0.234291 , vr 0.322662
+future 7 wr -0.233970 , vr 0.322883
+future 8 wr -0.233129 , vr 0.323466
+future 9 wr -0.231778 , vr 0.324407
+future 10 wr -0.229936 , vr 0.325703
+future 11 wr -0.227626 , vr 0.327352
+future 12 wr -0.224877 , vr 0.329346
+future 13 wr -0.221723 , vr 0.331681
+future 14 wr -0.218199 , vr 0.334349
+future 15 wr -0.214345 , vr 0.337341
+计算速度-0.14793   0.171793
+真实速度-0.134894   0.503436
+handleFutureTraMsg
+ curTime : 112
+ xr : 3.52785 yr : 2.26249 thetar: 1.10006
+state -0.312529 -0.123707 0.607894
+robot's locatoion 4.075600 1.902278 0.492163
+future 0 wr -0.032768 , vr 0.332043
+future 1 wr -0.032798 , vr 0.331895
+future 2 wr -0.032825 , vr 0.331755
+future 3 wr -0.032852 , vr 0.331623
+future 4 wr -0.032876 , vr 0.331497
+future 5 wr -0.032900 , vr 0.331379
+future 6 wr -0.032922 , vr 0.331268
+future 7 wr -0.032942 , vr 0.331165
+future 8 wr -0.032962 , vr 0.331069
+future 9 wr -0.032979 , vr 0.330980
+future 10 wr -0.032996 , vr 0.330898
+future 11 wr -0.033010 , vr 0.330824
+future 12 wr -0.033024 , vr 0.330758
+future 13 wr -0.033035 , vr 0.330698
+future 14 wr -0.033046 , vr 0.330646
+future 15 wr -0.033055 , vr 0.330602
+计算速度-0.0714577   0.317298
+真实速度-0.141994   0.476779
+handleFutureTraMsg
+ curTime : 113
+ xr : 3.56106 yr : 2.29029 thetar: 0.987252
+state -0.343608 -0.119716 0.510578
+robot's locatoion 4.132610 1.932346 0.476674
+future 0 wr -0.359254 , vr 0.296927
+future 1 wr -0.357989 , vr 0.297452
+future 2 wr -0.354874 , vr 0.298754
+future 3 wr -0.350006 , vr 0.300824
+future 4 wr -0.343530 , vr 0.303647
+future 5 wr -0.335628 , vr 0.307201
+future 6 wr -0.326509 , vr 0.311461
+future 7 wr -0.316397 , vr 0.316399
+future 8 wr -0.305517 , vr 0.321983
+future 9 wr -0.294086 , vr 0.328182
+future 10 wr -0.282305 , vr 0.334959
+future 11 wr -0.270354 , vr 0.342282
+future 12 wr -0.258391 , vr 0.350116
+future 13 wr -0.246547 , vr 0.358427
+future 14 wr -0.234928 , vr 0.367184
+future 15 wr -0.223619 , vr 0.376354
+计算速度-0.161492   -0.0362278
+真实速度-0.126217   0.446216
+handleFutureTraMsg
+ curTime : 114
+ xr : 3.59112 yr : 2.32312 thetar: 0.870174
+state -0.376696 -0.110209 0.410682
+robot's locatoion 4.190309 1.961565 0.459493
+future 0 wr -0.374912 , vr 0.310098
+future 1 wr -0.382971 , vr 0.306818
+future 2 wr -0.388936 , vr 0.304456
+future 3 wr -0.392595 , vr 0.303035
+future 4 wr -0.393812 , vr 0.302566
+future 5 wr -0.392544 , vr 0.303054
+future 6 wr -0.388836 , vr 0.304496
+future 7 wr -0.382826 , vr 0.306876
+future 8 wr -0.374727 , vr 0.310175
+future 9 wr -0.364810 , vr 0.314362
+future 10 wr -0.353385 , vr 0.319404
+future 11 wr -0.340776 , vr 0.325260
+future 12 wr -0.327303 , vr 0.331886
+future 13 wr -0.313268 , vr 0.339239
+future 14 wr -0.298944 , vr 0.347272
+future 15 wr -0.284564 , vr 0.355938
+计算速度-0.186888   -0.1309
+真实速度-0.142783   0.420238
+handleFutureTraMsg
+ curTime : 115
+ xr : 3.62859 yr : 2.35345 thetar: 0.724266
+state -0.395348 -0.105425 0.280594
+robot's locatoion 4.240891 1.986143 0.443672
+future 0 wr -0.108962 , vr 0.324567
+future 1 wr -0.118523 , vr 0.311200
+future 2 wr -0.129323 , vr 0.297923
+future 3 wr -0.141568 , vr 0.284747
+future 4 wr -0.155504 , vr 0.271688
+future 5 wr -0.171426 , vr 0.258764
+future 6 wr -0.189684 , vr 0.245995
+future 7 wr -0.210695 , vr 0.233408
+future 8 wr -0.234948 , vr 0.221032
+future 9 wr -0.263014 , vr 0.208907
+future 10 wr -0.295537 , vr 0.197077
+future 11 wr -0.333217 , vr 0.185600
+future 12 wr -0.376763 , vr 0.174545
+future 13 wr -0.426783 , vr 0.163998
+future 14 wr -0.483605 , vr 0.154062
+future 15 wr -0.546965 , vr 0.144865
+计算速度-0.0702596   0.0491283
+真实速度-0.0907184   0.39409
+handleFutureTraMsg
+ curTime : 116
+ xr : 3.66878 yr : 2.38731 thetar: 0.600937
+state -0.406430 -0.098130 0.173251
+robot's locatoion 4.288240 2.008223 0.427686
+future 0 wr -0.019124 , vr 0.334044
+future 1 wr -0.021480 , vr 0.315192
+future 2 wr -0.024299 , vr 0.296343
+future 3 wr -0.027712 , vr 0.277497
+future 4 wr -0.031896 , vr 0.258655
+future 5 wr -0.037104 , vr 0.239819
+future 6 wr -0.043696 , vr 0.220990
+future 7 wr -0.052210 , vr 0.202169
+future 8 wr -0.063471 , vr 0.183360
+future 9 wr -0.078796 , vr 0.164566
+future 10 wr -0.100395 , vr 0.145793
+future 11 wr -0.132201 , vr 0.127050
+future 12 wr -0.181758 , vr 0.108354
+future 13 wr -0.265018 , vr 0.089734
+future 14 wr -0.420387 , vr 0.071247
+future 15 wr -0.758655 , vr 0.053036
+计算速度-0.0585529   0.14184
+真实速度-0.10334   0.360131
+handleFutureTraMsg
+ curTime : 117
+ xr : 3.70858 yr : 2.41745 thetar: 0.516829
+state -0.415837 -0.093490 0.105307
+robot's locatoion 4.332309 2.027915 0.411522
+future 0 wr 0.049957 , vr 0.350722
+future 1 wr 0.056797 , vr 0.328926
+future 2 wr 0.065135 , vr 0.307152
+future 3 wr 0.075440 , vr 0.285405
+future 4 wr 0.088376 , vr 0.263691
+future 5 wr 0.104912 , vr 0.242019
+future 6 wr 0.126500 , vr 0.220402
+future 7 wr 0.155395 , vr 0.198858
+future 8 wr 0.195232 , vr 0.177413
+future 9 wr 0.252156 , vr 0.156109
+future 10 wr 0.337124 , vr 0.135010
+future 11 wr 0.470914 , vr 0.114233
+future 12 wr 0.695612 , vr 0.093989
+future 13 wr 1.100803 , vr 0.074715
+future 14 wr 1.865454 , vr 0.057394
+future 15 wr 3.120235 , vr 0.044378
+计算速度-0.0437075   0.28933
+真实速度-0.0954515   0.332964
+handleFutureTraMsg
+ curTime : 118
+ xr : 3.75454 yr : 2.44338 thetar: 0.442781
+state -0.421090 -0.094828 0.048286
+robot's locatoion 4.375883 2.046530 0.394495
+future 0 wr 0.060140 , vr 0.350070
+future 1 wr 0.067694 , vr 0.329960
+future 2 wr 0.076751 , vr 0.309881
+future 3 wr 0.087732 , vr 0.289840
+future 4 wr 0.101216 , vr 0.269844
+future 5 wr 0.118011 , vr 0.249905
+future 6 wr 0.139276 , vr 0.230038
+future 7 wr 0.166706 , vr 0.210262
+future 8 wr 0.202859 , vr 0.190607
+future 9 wr 0.251711 , vr 0.171114
+future 10 wr 0.319649 , vr 0.151845
+future 11 wr 0.417292 , vr 0.132898
+future 12 wr 0.562833 , vr 0.114432
+future 13 wr 0.787778 , vr 0.096724
+future 14 wr 1.143631 , vr 0.080278
+future 15 wr 1.689845 , vr 0.066041
+计算速度-0.0580197   0.272625
+真实速度-0.101762   0.306137
+handleFutureTraMsg
+ curTime : 119
+ xr : 3.80421 yr : 2.46989 thetar: 0.419879
+state -0.413589 -0.094519 0.038377
+robot's locatoion 4.413498 2.061925 0.381502
+future 0 wr 0.050367 , vr 0.324101
+future 1 wr 0.056033 , vr 0.307276
+future 2 wr 0.062704 , vr 0.290471
+future 3 wr 0.070630 , vr 0.273690
+future 4 wr 0.080141 , vr 0.256936
+future 5 wr 0.091685 , vr 0.240216
+future 6 wr 0.105877 , vr 0.223538
+future 7 wr 0.123577 , vr 0.206911
+future 8 wr 0.146017 , vr 0.190349
+future 9 wr 0.175005 , vr 0.173871
+future 10 wr 0.213271 , vr 0.157502
+future 11 wr 0.265055 , vr 0.141281
+future 12 wr 0.337163 , vr 0.125266
+future 13 wr 0.440876 , vr 0.109545
+future 14 wr 0.595350 , vr 0.094268
+future 15 wr 0.833101 , vr 0.079690
+计算速度-0.0596659   0.217126
+真实速度-0.0883518   0.282196
+handleFutureTraMsg
+ curTime : 120
+ xr : 3.85387 yr : 2.49217 thetar: 0.495816
+state -0.402047 -0.095955 0.123792
+robot's locatoion 4.447986 2.075587 0.372024
+future 0 wr -0.023738 , vr 0.261925
+future 1 wr -0.023622 , vr 0.262566
+future 2 wr -0.023507 , vr 0.263210
+future 3 wr -0.023392 , vr 0.263857
+future 4 wr -0.023277 , vr 0.264507
+future 5 wr -0.023162 , vr 0.265160
+future 6 wr -0.023048 , vr 0.265816
+future 7 wr -0.022934 , vr 0.266475
+future 8 wr -0.022821 , vr 0.267136
+future 9 wr -0.022708 , vr 0.267801
+future 10 wr -0.022595 , vr 0.268468
+future 11 wr -0.022483 , vr 0.269138
+future 12 wr -0.022371 , vr 0.269811
+future 13 wr -0.022259 , vr 0.270487
+future 14 wr -0.022148 , vr 0.271165
+future 15 wr -0.022037 , vr 0.271846
+计算速度-0.0775011   0.0653318
+真实速度-0.0733636   0.256557
+handleFutureTraMsg
+ curTime : 121
+ xr : 3.89482 yr : 2.5164 thetar: 0.599964
+state -0.397265 -0.092259 0.238506
+robot's locatoion 4.481333 2.088417 0.361458
+future 0 wr 0.289655 , vr 0.261330
+future 1 wr 0.274423 , vr 0.268485
+future 2 wr 0.259583 , vr 0.276052
+future 3 wr 0.245257 , vr 0.284000
+future 4 wr 0.231532 , vr 0.292297
+future 5 wr 0.218461 , vr 0.300914
+future 6 wr 0.206076 , vr 0.309824
+future 7 wr 0.194387 , vr 0.319004
+future 8 wr 0.183390 , vr 0.328429
+future 9 wr 0.173069 , vr 0.338080
+future 10 wr 0.163401 , vr 0.347939
+future 11 wr 0.154357 , vr 0.357987
+future 12 wr 0.145905 , vr 0.368209
+future 13 wr 0.138012 , vr 0.378591
+future 14 wr 0.130644 , vr 0.389121
+future 15 wr 0.123766 , vr 0.399787
+计算速度0.0381318   0.301995
+真实速度-0.0678416   0.226504
+handleFutureTraMsg
+ curTime : 122
+ xr : 3.9377 yr : 2.53903 thetar: 0.720483
+state -0.386663 -0.089779 0.368587
+robot's locatoion 4.510995 2.099480 0.351897
+future 0 wr 0.186799 , vr 0.256562
+future 1 wr 0.172973 , vr 0.266619
+future 2 wr 0.160437 , vr 0.276839
+future 3 wr 0.149065 , vr 0.287205
+future 4 wr 0.138738 , vr 0.297701
+future 5 wr 0.129351 , vr 0.308315
+future 6 wr 0.120805 , vr 0.319034
+future 7 wr 0.113013 , vr 0.329848
+future 8 wr 0.105899 , vr 0.340749
+future 9 wr 0.099391 , vr 0.351727
+future 10 wr 0.093429 , vr 0.362777
+future 11 wr 0.087957 , vr 0.373891
+future 12 wr 0.082926 , vr 0.385064
+future 13 wr 0.078294 , vr 0.396292
+future 14 wr 0.074021 , vr 0.407569
+future 15 wr 0.070074 , vr 0.418892
+计算速度0.023528   0.234868
+真实速度-0.0694193   0.234654
+handleFutureTraMsg
+ curTime : 123
+ xr : 3.97842 yr : 2.56911 thetar: 0.87219
+state -0.375149 -0.077443 0.525559
+robot's locatoion 4.542755 2.111031 0.346631
+future 0 wr -0.043633 , vr 0.261907
+future 1 wr -0.039942 , vr 0.273742
+future 2 wr -0.036697 , vr 0.285587
+future 3 wr -0.033831 , vr 0.297440
+future 4 wr -0.031286 , vr 0.309299
+future 5 wr -0.029017 , vr 0.321165
+future 6 wr -0.026985 , vr 0.333036
+future 7 wr -0.025159 , vr 0.344912
+future 8 wr -0.023511 , vr 0.356792
+future 9 wr -0.022020 , vr 0.368677
+future 10 wr -0.020666 , vr 0.380565
+future 11 wr -0.019432 , vr 0.392457
+future 12 wr -0.018306 , vr 0.404352
+future 13 wr -0.017274 , vr 0.416249
+future 14 wr -0.016328 , vr 0.428149
+future 15 wr -0.015456 , vr 0.440051
+计算速度0.00380462   0.0640826
+真实速度-0.00946626   0.240767
+handleFutureTraMsg
+ curTime : 124
+ xr : 4.01504 yr : 2.59935 thetar: 0.94946
+state -0.362303 -0.060258 0.599386
+robot's locatoion 4.574782 2.122664 0.350074
+future 0 wr -0.151422 , vr 0.308545
+future 1 wr -0.146062 , vr 0.314155
+future 2 wr -0.140860 , vr 0.319903
+future 3 wr -0.135824 , vr 0.325780
+future 4 wr -0.130956 , vr 0.331780
+future 5 wr -0.126258 , vr 0.337896
+future 6 wr -0.121731 , vr 0.344122
+future 7 wr -0.117373 , vr 0.350453
+future 8 wr -0.113182 , vr 0.356882
+future 9 wr -0.109156 , vr 0.363404
+future 10 wr -0.105290 , vr 0.370015
+future 11 wr -0.101581 , vr 0.376709
+future 12 wr -0.098024 , vr 0.383483
+future 13 wr -0.094614 , vr 0.390332
+future 14 wr -0.091346 , vr 0.397253
+future 15 wr -0.088215 , vr 0.404241
+计算速度-0.00170824   -0.0514814
+真实速度0.0252434   0.217335
+handleFutureTraMsg
+ curTime : 125
+ xr : 4.0371 yr : 2.62739 thetar: 1.01967
+state -0.357560 -0.040494 0.666757
+robot's locatoion 4.600569 2.132118 0.352914
+future 0 wr -0.199035 , vr 0.351904
+future 1 wr -0.201508 , vr 0.349737
+future 2 wr -0.203689 , vr 0.347861
+future 3 wr -0.205554 , vr 0.346279
+future 4 wr -0.207086 , vr 0.344995
+future 5 wr -0.208269 , vr 0.344014
+future 6 wr -0.209091 , vr 0.343337
+future 7 wr -0.209542 , vr 0.342967
+future 8 wr -0.209619 , vr 0.342905
+future 9 wr -0.209320 , vr 0.343149
+future 10 wr -0.208648 , vr 0.343701
+future 11 wr -0.207611 , vr 0.344559
+future 12 wr -0.206220 , vr 0.345719
+future 13 wr -0.204488 , vr 0.347180
+future 14 wr -0.202434 , vr 0.348937
+future 15 wr -0.200077 , vr 0.350986
+计算速度-0.01704   -0.148893
+真实速度0.0149883   0.187961
+handleFutureTraMsg
+ curTime : 126
+ xr : 4.06647 yr : 2.66618 thetar: 1.07261
+state -0.338759 -0.013508 0.717433
+robot's locatoion 4.622812 2.140342 0.355174
+future 0 wr -0.236178 , vr 0.343642
+future 1 wr -0.235699 , vr 0.343991
+future 2 wr -0.234690 , vr 0.344730
+future 3 wr -0.233164 , vr 0.345856
+future 4 wr -0.231140 , vr 0.347366
+future 5 wr -0.228647 , vr 0.349256
+future 6 wr -0.225714 , vr 0.351518
+future 7 wr -0.222377 , vr 0.354145
+future 8 wr -0.218675 , vr 0.357130
+future 9 wr -0.214648 , vr 0.360464
+future 10 wr -0.210340 , vr 0.364137
+future 11 wr -0.205792 , vr 0.368139
+future 12 wr -0.201046 , vr 0.372459
+future 13 wr -0.196142 , vr 0.377087
+future 14 wr -0.191118 , vr 0.382010
+future 15 wr -0.186011 , vr 0.387219
+计算速度-0.0262765   -0.213326
+真实速度0.00394428   0.159775
+handleFutureTraMsg
+ curTime : 127
+ xr : 4.09715 yr : 2.71612 thetar: 1.06002
+state -0.309738 0.023646 0.701525
+robot's locatoion 4.641100 2.147159 0.358499
+future 0 wr -0.076650 , vr 0.334248
+future 1 wr -0.074792 , vr 0.338375
+future 2 wr -0.072984 , vr 0.342541
+future 3 wr -0.071225 , vr 0.346745
+future 4 wr -0.069515 , vr 0.350984
+future 5 wr -0.067852 , vr 0.355258
+future 6 wr -0.066236 , vr 0.359565
+future 7 wr -0.064666 , vr 0.363904
+future 8 wr -0.063140 , vr 0.368275
+future 9 wr -0.061658 , vr 0.372675
+future 10 wr -0.060218 , vr 0.377105
+future 11 wr -0.058819 , vr 0.381562
+future 12 wr -0.057461 , vr 0.386047
+future 13 wr -0.056141 , vr 0.390557
+future 14 wr -0.054860 , vr 0.395092
+future 15 wr -0.053615 , vr 0.399652
+计算速度0.0461838   -0.084333
+真实速度0.0181437   0.132608
+handleFutureTraMsg
+ curTime : 128
+ xr : 4.12291 yr : 2.758 thetar: 1.01011
+state -0.285304 0.054622 0.648763
+robot's locatoion 4.656579 2.152979 0.361351
+future 0 wr 0.081477 , vr 0.337503
+future 1 wr 0.080125 , vr 0.340337
+future 2 wr 0.078787 , vr 0.343216
+future 3 wr 0.077462 , vr 0.346139
+future 4 wr 0.076152 , vr 0.349104
+future 5 wr 0.074857 , vr 0.352110
+future 6 wr 0.073578 , vr 0.355157
+future 7 wr 0.072316 , vr 0.358242
+future 8 wr 0.071071 , vr 0.361366
+future 9 wr 0.069844 , vr 0.364528
+future 10 wr 0.068634 , vr 0.367726
+future 11 wr 0.067443 , vr 0.370959
+future 12 wr 0.066270 , vr 0.374226
+future 13 wr 0.065117 , vr 0.377527
+future 14 wr 0.063982 , vr 0.380861
+future 15 wr 0.062866 , vr 0.384227
+计算速度0.108844   0.0482509
+真实速度0.0173548   0.103234
+ curTime : 129
+ xr : 4.12291 yr : 2.758 thetar: 0.950411
+state -0.294731 0.055343 0.586575
+robot's locatoion 4.667147 2.156987 0.363836
+future 0 wr 0.081477 , vr 0.337503
+future 1 wr 0.080125 , vr 0.340337
+future 2 wr 0.078787 , vr 0.343216
+future 3 wr 0.077462 , vr 0.346139
+future 4 wr 0.076152 , vr 0.349104
+future 5 wr 0.074857 , vr 0.352110
+future 6 wr 0.073578 , vr 0.355157
+future 7 wr 0.072316 , vr 0.358242
+future 8 wr 0.071071 , vr 0.361366
+future 9 wr 0.069844 , vr 0.364528
+future 10 wr 0.068634 , vr 0.367726
+future 11 wr 0.067443 , vr 0.370959
+future 12 wr 0.066270 , vr 0.374226
+future 13 wr 0.065117 , vr 0.377527
+future 14 wr 0.063982 , vr 0.380861
+future 15 wr 0.062866 , vr 0.384227
+计算速度0.114974   0.0481839
+真实速度0.0173548   0.0767465
+ curTime : 130
+ xr : 4.12291 yr : 2.758 thetar: 0.891286
+state -0.297118 0.057712 0.519474
+robot's locatoion 4.675007 2.160007 0.371811
+future 0 wr 0.081477 , vr 0.337503
+future 1 wr 0.080125 , vr 0.340337
+future 2 wr 0.078787 , vr 0.343216
+future 3 wr 0.077462 , vr 0.346139
+future 4 wr 0.076152 , vr 0.349104
+future 5 wr 0.074857 , vr 0.352110
+future 6 wr 0.073578 , vr 0.355157
+future 7 wr 0.072316 , vr 0.358242
+future 8 wr 0.071071 , vr 0.361366
+future 9 wr 0.069844 , vr 0.364528
+future 10 wr 0.068634 , vr 0.367726
+future 11 wr 0.067443 , vr 0.370959
+future 12 wr 0.066270 , vr 0.374226
+future 13 wr 0.065117 , vr 0.377527
+future 14 wr 0.063982 , vr 0.380861
+future 15 wr 0.062866 , vr 0.384227
+计算速度0.13766   0.0560133
+真实速度0.0528533   0.062314
+ curTime : 131
+ xr : 4.12291 yr : 2.758 thetar: 0.864973
+state -0.290967 0.063312 0.474146
+robot's locatoion 4.682724 2.163092 0.390827
+future 0 wr 0.081477 , vr 0.337503
+future 1 wr 0.080125 , vr 0.340337
+future 2 wr 0.078787 , vr 0.343216
+future 3 wr 0.077462 , vr 0.346139
+future 4 wr 0.076152 , vr 0.349104
+future 5 wr 0.074857 , vr 0.352110
+future 6 wr 0.073578 , vr 0.355157
+future 7 wr 0.072316 , vr 0.358242
+future 8 wr 0.071071 , vr 0.361366
+future 9 wr 0.069844 , vr 0.364528
+future 10 wr 0.068634 , vr 0.367726
+future 11 wr 0.067443 , vr 0.370959
+future 12 wr 0.066270 , vr 0.374226
+future 13 wr 0.065117 , vr 0.377527
+future 14 wr 0.063982 , vr 0.380861
+future 15 wr 0.062866 , vr 0.384227
+计算速度0.177532   0.0696238
+真实速度0.122273   0.0589182
+ curTime : 132
+ xr : 4.12291 yr : 2.758 thetar: 0.864973
+state -0.283450 0.069474 0.452717
+robot's locatoion 4.690924 2.166566 0.412256
+future 0 wr 0.081477 , vr 0.337503
+future 1 wr 0.080125 , vr 0.340337
+future 2 wr 0.078787 , vr 0.343216
+future 3 wr 0.077462 , vr 0.346139
+future 4 wr 0.076152 , vr 0.349104
+future 5 wr 0.074857 , vr 0.352110
+future 6 wr 0.073578 , vr 0.355157
+future 7 wr 0.072316 , vr 0.358242
+future 8 wr 0.071071 , vr 0.361366
+future 9 wr 0.069844 , vr 0.364528
+future 10 wr 0.068634 , vr 0.367726
+future 11 wr 0.067443 , vr 0.370959
+future 12 wr 0.066270 , vr 0.374226
+future 13 wr 0.065117 , vr 0.377527
+future 14 wr 0.063982 , vr 0.380861
+future 15 wr 0.062866 , vr 0.384227
+计算速度0.197841   0.0871972
+真实速度0.16566   0.0641818
+ curTime : 133
+ xr : 4.12291 yr : 2.758 thetar: 0.864973
+state -0.274770 0.076504 0.427549
+robot's locatoion 4.700744 2.171003 0.437424
+future 0 wr 0.081477 , vr 0.337503
+future 1 wr 0.080125 , vr 0.340337
+future 2 wr 0.078787 , vr 0.343216
+future 3 wr 0.077462 , vr 0.346139
+future 4 wr 0.076152 , vr 0.349104
+future 5 wr 0.074857 , vr 0.352110
+future 6 wr 0.073578 , vr 0.355157
+future 7 wr 0.072316 , vr 0.358242
+future 8 wr 0.071071 , vr 0.361366
+future 9 wr 0.069844 , vr 0.364528
+future 10 wr 0.068634 , vr 0.367726
+future 11 wr 0.067443 , vr 0.370959
+future 12 wr 0.066270 , vr 0.374226
+future 13 wr 0.065117 , vr 0.377527
+future 14 wr 0.063982 , vr 0.380861
+future 15 wr 0.062866 , vr 0.384227
+计算速度0.211408   0.110269
+真实速度0.201158   0.0786142

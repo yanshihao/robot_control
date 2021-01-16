@@ -38,7 +38,7 @@ class MPCFollowController
 public:
     MPCFollowController()
     : BaseController(7)
-    , curTime_(0), isStart_(false),trajectory_(new WeightTrajectory), yDesired_(0.3), count_(0)
+    , curTime_(0), isStart_(false),trajectory_(new WeightTrajectory), yDesired_(0), count_(0)
     , outFile_("/home/nvidia/catkin_new/src/robot_control/recordData/information.txt", ios::app)
     , maxLen_(4), sumAngle_(0)
     {
@@ -118,10 +118,11 @@ void MPCFollowController::run()
 
 geometry_msgs::Twist MPCFollowController::controlStrategyOutput()
 {   
-    std::cout << " curTime_ : " << curTime_ << std::endl;
+    static int time = 1;
+    std::cout << " curTime : " << time << std::endl;
     Location loc = trajectory_->getLocation( curTime_ );
     double xr = loc.xr;
-    double yr = loc.yr;
+    double yr = loc.yr - 0.8;
     double thetar = 0;
     if( currentAngles_.empty() )
     {
@@ -161,7 +162,8 @@ geometry_msgs::Twist MPCFollowController::controlStrategyOutput()
 	Adaptive_U.moorx[1]=y[1] ;
 	Adaptive_U.moorx[2]=y[2] ;
 
-	printf("%f %f %f\n", y[0], y[1], y[2]);
+	printf("state %f %f %f\n", y[0], y[1], y[2]);
+    printf("robot's locatoion %f %f %f\n", q.x, q.y, q.theta);
 	Adaptive_U.ref[0] = 0;
 	Adaptive_U.ref[1] = 0;
 	Adaptive_U.ref[2] = 0;
@@ -210,7 +212,7 @@ geometry_msgs::Twist MPCFollowController::controlStrategyOutput()
         PathInfo pathinfo = trajectory_->getPathInfo( curTime_ + i * SAMPLE_TIME );
 		double wr = pathinfo.spd.wr;
         double vr = pathinfo.spd.vr;
-
+        printf("future %d wr %f , vr %f\n", i, wr, vr);
 		Adaptive_U.A[9 * i] = 1;
 		Adaptive_U.A[9 * i + 4] = 1;
 		Adaptive_U.A[9 * i + 8] = 1;
@@ -257,6 +259,7 @@ geometry_msgs::Twist MPCFollowController::controlStrategyOutput()
     outFile_ << speed.linear.x << " " << speed.angular.z << " ";
     outFile_ << realSpd_.linear.x << " " << realSpd_.angular.z << " ";
     outFile_ << x[0] << " " << x[1] << " " << x[2] << std::endl;
+    time ++;
     return speed;
 }
 
